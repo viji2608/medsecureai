@@ -1,0 +1,30 @@
+# Core ML and Vector Processing
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=2.0.0
+
+# CyborgDB
+cyborgdb
+
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Data Processing - FIXED FOR PYTHON 3.12
+pandas>=2.1.0
+numpy>=1.26.0  # Python 3.12 compatible version
+
+# Security & Encryption
+cryptography>=41.0.0
+python-dotenv>=1.0.0
+
+# Utilities
+pydantic>=2.0.0
+httpx>=0.25.0
+pytest>=7.4.0
+jupyter>=1.0.0
+matplotlib>=3.8.0
+
+# Build tools (fixes the setuptools error)
+setuptools>=65.0.0
+wheel>=0.40.0

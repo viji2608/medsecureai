@@ -1,0 +1,2601 @@
+record_id,age_range,primary_condition,comorbidities,medication_count,clinical_summary,created_date
+MRN_000000,60-69,Type 2 Diabetes Mellitus,Hyperlipidemia,3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Hyperlipidemia
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and difficulty sleeping.
+
+Current Medications: Levothyroxine 50mcg once daily; Aspirin 81mg once daily; Gabapentin 300mg three times daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 111/86, HR 76, Temp 98.6°F
+
+Follow-up scheduled in 12 weeks.",2025-10-03
+MRN_000001,50-59,Gastroesophageal Reflux Disease (GERD),Atrial Fibrillation,1,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Atrial Fibrillation
+
+Chief Complaints: Reports shortness of breath with minimal activity, and chronic lower back pain.
+
+Current Medications: Metformin 1000mg twice daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 148/92, HR 76, Temp 98.7°F
+
+Follow-up scheduled in 12 weeks.",2025-08-09
+MRN_000002,60-69,Asthma,"Gastroesophageal Reflux Disease (GERD), Congestive Heart Failure (CHF)",3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Asthma, Gastroesophageal Reflux Disease (GERD), Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Clopidogrel 75mg once daily; Furosemide 40mg once daily; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 117/93, HR 68, Temp 98.6°F
+
+Follow-up scheduled in 4 weeks.",2025-02-15
+MRN_000003,50-59,Type 2 Diabetes Mellitus,None,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Atorvastatin 20mg at bedtime; Gabapentin 300mg three times daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 112/80, HR 65, Temp 98.4°F
+
+Follow-up scheduled in 8 weeks.",2024-11-19
+MRN_000004,60-69,Asthma,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports persistent fatigue and weakness, and difficulty sleeping.
+
+Current Medications: Gabapentin 300mg three times daily; Omeprazole 20mg once daily; Albuterol inhaler as needed; Metformin 1000mg twice daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 124/79, HR 85, Temp 98.0°F
+
+Follow-up scheduled in 8 weeks.",2024-12-02
+MRN_000005,80-89,Major Depressive Disorder,Asthma,4,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Asthma
+
+Chief Complaints: Reports intermittent dizziness, and chronic lower back pain.
+
+Current Medications: Warfarin 5mg once daily; Amlodipine 5mg once daily; Levothyroxine 50mcg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 123/91, HR 87, Temp 98.5°F
+
+Follow-up scheduled in 4 weeks.",2024-12-14
+MRN_000006,50-59,Chronic Obstructive Pulmonary Disease (COPD),Essential Hypertension,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Essential Hypertension
+
+Chief Complaints: Reports difficulty sleeping, and chronic lower back pain.
+
+Current Medications: Omeprazole 20mg once daily; Levothyroxine 50mcg once daily; Amlodipine 5mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 140/81, HR 76, Temp 98.0°F
+
+Follow-up scheduled in 12 weeks.",2025-05-29
+MRN_000007,70-79,Chronic Kidney Disease Stage 3,"Coronary Artery Disease, Atrial Fibrillation",4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Coronary Artery Disease, Atrial Fibrillation
+
+Chief Complaints: Reports difficulty sleeping, and persistent fatigue and weakness.
+
+Current Medications: Gabapentin 300mg three times daily; Warfarin 5mg once daily; Amlodipine 5mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 125/92, HR 78, Temp 98.2°F
+
+Follow-up scheduled in 2 weeks.",2025-04-14
+MRN_000008,60-69,Coronary Artery Disease,Gastroesophageal Reflux Disease (GERD),2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports frequent urination and increased thirst, and difficulty sleeping.
+
+Current Medications: Levothyroxine 50mcg once daily; Aspirin 81mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 149/94, HR 65, Temp 98.2°F
+
+Follow-up scheduled in 4 weeks.",2025-11-16
+MRN_000009,40-49,Osteoarthritis,None,2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Clopidogrel 75mg once daily; Gabapentin 300mg three times daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 123/85, HR 62, Temp 98.4°F
+
+Follow-up scheduled in 12 weeks.",2025-07-04
+MRN_000010,50-59,Peripheral Artery Disease,"Chronic Kidney Disease Stage 3, Atrial Fibrillation",1,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Chronic Kidney Disease Stage 3, Atrial Fibrillation
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 125/95, HR 63, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-04-12
+MRN_000011,60-69,Osteoarthritis,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and frequent urination and increased thirst.
+
+Current Medications: Lisinopril 10mg once daily; Insulin glargine 20 units at bedtime; Albuterol inhaler as needed; Omeprazole 20mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 145/74, HR 66, Temp 98.3°F
+
+Follow-up scheduled in 8 weeks.",2025-06-16
+MRN_000012,80-89,Asthma,Hyperlipidemia,2,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Asthma, Hyperlipidemia
+
+Chief Complaints: Reports numbness and tingling in extremities, and chest pain on exertion.
+
+Current Medications: Insulin glargine 20 units at bedtime; Gabapentin 300mg three times daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 129/72, HR 73, Temp 98.9°F
+
+Follow-up scheduled in 4 weeks.",2025-08-12
+MRN_000013,30-39,Atrial Fibrillation,Hypothyroidism,3,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Hypothyroidism
+
+Chief Complaints: Reports persistent dry cough, and persistent fatigue and weakness.
+
+Current Medications: Albuterol inhaler as needed; Furosemide 40mg once daily; Losartan 50mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 134/83, HR 85, Temp 98.4°F
+
+Follow-up scheduled in 8 weeks.",2025-05-09
+MRN_000014,50-59,Major Depressive Disorder,Hypothyroidism,1,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Hypothyroidism
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Lisinopril 10mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 149/80, HR 74, Temp 98.7°F
+
+Follow-up scheduled in 2 weeks.",2025-10-29
+MRN_000015,30-39,Peripheral Artery Disease,"Congestive Heart Failure (CHF), Atrial Fibrillation",1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Congestive Heart Failure (CHF), Atrial Fibrillation
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Amlodipine 5mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 149/90, HR 76, Temp 98.3°F
+
+Follow-up scheduled in 12 weeks.",2025-01-31
+MRN_000016,40-49,Congestive Heart Failure (CHF),"Coronary Artery Disease, Asthma",2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Coronary Artery Disease, Asthma
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Gabapentin 300mg three times daily; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 149/95, HR 66, Temp 98.0°F
+
+Follow-up scheduled in 4 weeks.",2024-12-24
+MRN_000017,30-39,Osteoarthritis,Hypothyroidism,1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Hypothyroidism
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and chronic lower back pain.
+
+Current Medications: Lisinopril 10mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 122/85, HR 80, Temp 98.2°F
+
+Follow-up scheduled in 4 weeks.",2025-03-12
+MRN_000018,50-59,Type 2 Diabetes Mellitus,Coronary Artery Disease,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Coronary Artery Disease
+
+Chief Complaints: Reports shortness of breath with minimal activity, and numbness and tingling in extremities.
+
+Current Medications: Gabapentin 300mg three times daily; Albuterol inhaler as needed; Clopidogrel 75mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 126/93, HR 83, Temp 98.6°F
+
+Follow-up scheduled in 4 weeks.",2025-04-16
+MRN_000019,40-49,Major Depressive Disorder,Chronic Obstructive Pulmonary Disease (COPD),2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Metformin 1000mg twice daily; Gabapentin 300mg three times daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 121/72, HR 66, Temp 98.7°F
+
+Follow-up scheduled in 4 weeks.",2025-06-09
+MRN_000020,30-39,Peripheral Artery Disease,Coronary Artery Disease,4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Coronary Artery Disease
+
+Chief Complaints: Reports chronic lower back pain, and shortness of breath with minimal activity.
+
+Current Medications: Metformin 1000mg twice daily; Furosemide 40mg once daily; Warfarin 5mg once daily; Losartan 50mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 149/79, HR 90, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-08-10
+MRN_000021,80-89,Atrial Fibrillation,Coronary Artery Disease,3,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Coronary Artery Disease
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and persistent fatigue and weakness.
+
+Current Medications: Gabapentin 300mg three times daily; Atorvastatin 20mg at bedtime; Lisinopril 10mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 118/77, HR 63, Temp 98.6°F
+
+Follow-up scheduled in 8 weeks.",2025-01-09
+MRN_000022,30-39,Atrial Fibrillation,"Congestive Heart Failure (CHF), Peripheral Artery Disease",4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Congestive Heart Failure (CHF), Peripheral Artery Disease
+
+Chief Complaints: Reports difficulty sleeping.
+
+Current Medications: Furosemide 40mg once daily; Levothyroxine 50mcg once daily; Clopidogrel 75mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 146/83, HR 81, Temp 98.3°F
+
+Follow-up scheduled in 8 weeks.",2025-10-12
+MRN_000023,30-39,Coronary Artery Disease,None,4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Warfarin 5mg once daily; Albuterol inhaler as needed; Clopidogrel 75mg once daily; Aspirin 81mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 129/85, HR 74, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-05-05
+MRN_000024,70-79,Coronary Artery Disease,Atrial Fibrillation,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Atrial Fibrillation
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Aspirin 81mg once daily; Losartan 50mg once daily; Gabapentin 300mg three times daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 124/77, HR 81, Temp 98.0°F
+
+Follow-up scheduled in 8 weeks.",2025-10-05
+MRN_000025,70-79,Chronic Obstructive Pulmonary Disease (COPD),Hypothyroidism,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Hypothyroidism
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Albuterol inhaler as needed; Metformin 1000mg twice daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 113/74, HR 85, Temp 98.4°F
+
+Follow-up scheduled in 4 weeks.",2025-05-16
+MRN_000026,70-79,Congestive Heart Failure (CHF),Peripheral Artery Disease,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Peripheral Artery Disease
+
+Chief Complaints: Reports persistent dry cough, and shortness of breath with minimal activity.
+
+Current Medications: Insulin glargine 20 units at bedtime; Clopidogrel 75mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 122/84, HR 60, Temp 98.9°F
+
+Follow-up scheduled in 12 weeks.",2025-03-31
+MRN_000027,40-49,Major Depressive Disorder,"Chronic Obstructive Pulmonary Disease (COPD), Congestive Heart Failure (CHF)",3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Chronic Obstructive Pulmonary Disease (COPD), Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Losartan 50mg once daily; Metformin 1000mg twice daily; Albuterol inhaler as needed
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 132/80, HR 62, Temp 98.5°F
+
+Follow-up scheduled in 12 weeks.",2025-02-22
+MRN_000028,30-39,Essential Hypertension,Congestive Heart Failure (CHF),1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Furosemide 40mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 110/87, HR 72, Temp 98.0°F
+
+Follow-up scheduled in 2 weeks.",2025-04-27
+MRN_000029,30-39,Chronic Obstructive Pulmonary Disease (COPD),Hypothyroidism,1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Hypothyroidism
+
+Chief Complaints: Reports difficulty sleeping, and chest pain on exertion.
+
+Current Medications: Metformin 1000mg twice daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 125/91, HR 78, Temp 98.8°F
+
+Follow-up scheduled in 8 weeks.",2025-01-12
+MRN_000030,50-59,Chronic Obstructive Pulmonary Disease (COPD),Type 2 Diabetes Mellitus,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports chronic lower back pain.
+
+Current Medications: Clopidogrel 75mg once daily; Losartan 50mg once daily; Atorvastatin 20mg at bedtime; Albuterol inhaler as needed
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 122/80, HR 78, Temp 98.5°F
+
+Follow-up scheduled in 8 weeks.",2025-05-24
+MRN_000031,70-79,Peripheral Artery Disease,None,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease
+
+Chief Complaints: Reports palpitations and irregular heartbeat, and difficulty sleeping.
+
+Current Medications: Warfarin 5mg once daily; Amlodipine 5mg once daily; Omeprazole 20mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 115/76, HR 90, Temp 98.5°F
+
+Follow-up scheduled in 12 weeks.",2025-08-27
+MRN_000032,30-39,Coronary Artery Disease,Atrial Fibrillation,2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Atrial Fibrillation
+
+Chief Complaints: Reports difficulty sleeping.
+
+Current Medications: Albuterol inhaler as needed; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 120/72, HR 63, Temp 98.1°F
+
+Follow-up scheduled in 4 weeks.",2024-11-25
+MRN_000033,50-59,Type 2 Diabetes Mellitus,Chronic Obstructive Pulmonary Disease (COPD),4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and numbness and tingling in extremities.
+
+Current Medications: Gabapentin 300mg three times daily; Albuterol inhaler as needed; Insulin glargine 20 units at bedtime; Lisinopril 10mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 113/74, HR 86, Temp 98.1°F
+
+Follow-up scheduled in 8 weeks.",2025-07-28
+MRN_000034,40-49,Congestive Heart Failure (CHF),"Coronary Artery Disease, Major Depressive Disorder",3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Coronary Artery Disease, Major Depressive Disorder
+
+Chief Complaints: Reports chronic lower back pain.
+
+Current Medications: Warfarin 5mg once daily; Amlodipine 5mg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 132/83, HR 62, Temp 98.6°F
+
+Follow-up scheduled in 4 weeks.",2025-05-25
+MRN_000035,30-39,Chronic Kidney Disease Stage 3,"Hypothyroidism, Essential Hypertension",1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Hypothyroidism, Essential Hypertension
+
+Chief Complaints: Reports bilateral leg swelling, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Lisinopril 10mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 135/86, HR 64, Temp 98.8°F
+
+Follow-up scheduled in 8 weeks.",2025-08-04
+MRN_000036,50-59,Asthma,None,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports chronic lower back pain, and shortness of breath with minimal activity.
+
+Current Medications: Losartan 50mg once daily; Warfarin 5mg once daily; Levothyroxine 50mcg once daily; Furosemide 40mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 150/80, HR 79, Temp 98.2°F
+
+Follow-up scheduled in 4 weeks.",2025-05-21
+MRN_000037,30-39,Peripheral Artery Disease,Major Depressive Disorder,4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Major Depressive Disorder
+
+Chief Complaints: Reports shortness of breath with minimal activity, and intermittent dizziness.
+
+Current Medications: Levothyroxine 50mcg once daily; Gabapentin 300mg three times daily; Atorvastatin 20mg at bedtime; Amlodipine 5mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 111/95, HR 84, Temp 98.0°F
+
+Follow-up scheduled in 12 weeks.",2025-06-18
+MRN_000038,80-89,Gastroesophageal Reflux Disease (GERD),Hyperlipidemia,1,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Hyperlipidemia
+
+Chief Complaints: Reports shortness of breath with minimal activity, and persistent dry cough.
+
+Current Medications: Clopidogrel 75mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 132/82, HR 84, Temp 98.9°F
+
+Follow-up scheduled in 12 weeks.",2024-12-17
+MRN_000039,40-49,Coronary Artery Disease,Gastroesophageal Reflux Disease (GERD),2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports difficulty sleeping, and bilateral leg swelling.
+
+Current Medications: Omeprazole 20mg once daily; Aspirin 81mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 139/82, HR 89, Temp 98.1°F
+
+Follow-up scheduled in 4 weeks.",2025-06-25
+MRN_000040,60-69,Type 2 Diabetes Mellitus,Asthma,1,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Asthma
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Amlodipine 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 145/71, HR 89, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2025-10-26
+MRN_000041,40-49,Asthma,None,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Amlodipine 5mg once daily; Clopidogrel 75mg once daily; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 140/85, HR 74, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-02-10
+MRN_000042,40-49,Chronic Kidney Disease Stage 3,"Hypothyroidism, Atrial Fibrillation",3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Hypothyroidism, Atrial Fibrillation
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Omeprazole 20mg once daily; Amlodipine 5mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 142/78, HR 72, Temp 98.1°F
+
+Follow-up scheduled in 12 weeks.",2025-04-08
+MRN_000043,60-69,Congestive Heart Failure (CHF),Type 2 Diabetes Mellitus,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Levothyroxine 50mcg once daily; Albuterol inhaler as needed; Clopidogrel 75mg once daily; Furosemide 40mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 119/86, HR 64, Temp 98.5°F
+
+Follow-up scheduled in 12 weeks.",2025-01-27
+MRN_000044,30-39,Osteoarthritis,"Chronic Kidney Disease Stage 3, Asthma",3,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Chronic Kidney Disease Stage 3, Asthma
+
+Chief Complaints: Reports chronic lower back pain, and palpitations and irregular heartbeat.
+
+Current Medications: Amlodipine 5mg once daily; Aspirin 81mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 148/72, HR 64, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-06-08
+MRN_000045,40-49,Chronic Obstructive Pulmonary Disease (COPD),Congestive Heart Failure (CHF),3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports chest pain on exertion, and bilateral leg swelling.
+
+Current Medications: Atorvastatin 20mg at bedtime; Albuterol inhaler as needed; Clopidogrel 75mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 148/89, HR 66, Temp 98.6°F
+
+Follow-up scheduled in 2 weeks.",2025-03-20
+MRN_000046,60-69,Gastroesophageal Reflux Disease (GERD),None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports persistent fatigue and weakness, and chronic lower back pain.
+
+Current Medications: Lisinopril 10mg once daily; Metformin 1000mg twice daily; Omeprazole 20mg once daily; Furosemide 40mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 119/93, HR 88, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-11-19
+MRN_000047,40-49,Type 2 Diabetes Mellitus,"Essential Hypertension, Gastroesophageal Reflux Disease (GERD)",3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Essential Hypertension, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and chest pain on exertion.
+
+Current Medications: Lisinopril 10mg once daily; Levothyroxine 50mcg once daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 124/91, HR 73, Temp 98.2°F
+
+Follow-up scheduled in 8 weeks.",2024-11-28
+MRN_000048,30-39,Peripheral Artery Disease,"Hypothyroidism, Type 2 Diabetes Mellitus",2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Hypothyroidism, Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports shortness of breath with minimal activity, and intermittent dizziness.
+
+Current Medications: Levothyroxine 50mcg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 128/72, HR 72, Temp 98.2°F
+
+Follow-up scheduled in 12 weeks.",2025-03-26
+MRN_000049,80-89,Hyperlipidemia,Asthma,2,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia, Asthma
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Clopidogrel 75mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 147/92, HR 71, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-05-09
+MRN_000050,50-59,Major Depressive Disorder,Congestive Heart Failure (CHF),3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports difficulty sleeping.
+
+Current Medications: Insulin glargine 20 units at bedtime; Gabapentin 300mg three times daily; Omeprazole 20mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 116/85, HR 82, Temp 98.1°F
+
+Follow-up scheduled in 8 weeks.",2025-10-14
+MRN_000051,80-89,Congestive Heart Failure (CHF),"Essential Hypertension, Gastroesophageal Reflux Disease (GERD)",4,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Essential Hypertension, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports bilateral leg swelling, and shortness of breath with minimal activity.
+
+Current Medications: Losartan 50mg once daily; Albuterol inhaler as needed; Amlodipine 5mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 120/70, HR 74, Temp 98.5°F
+
+Follow-up scheduled in 12 weeks.",2025-09-12
+MRN_000052,80-89,Congestive Heart Failure (CHF),"Type 2 Diabetes Mellitus, Atrial Fibrillation",3,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Type 2 Diabetes Mellitus, Atrial Fibrillation
+
+Chief Complaints: Reports chronic lower back pain, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Furosemide 40mg once daily; Losartan 50mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 112/85, HR 82, Temp 98.4°F
+
+Follow-up scheduled in 8 weeks.",2025-10-08
+MRN_000053,40-49,Chronic Kidney Disease Stage 3,None,2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports palpitations and irregular heartbeat, and persistent fatigue and weakness.
+
+Current Medications: Warfarin 5mg once daily; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 141/75, HR 83, Temp 98.3°F
+
+Follow-up scheduled in 4 weeks.",2025-07-27
+MRN_000054,50-59,Peripheral Artery Disease,Chronic Kidney Disease Stage 3,3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports persistent dry cough, and numbness and tingling in extremities.
+
+Current Medications: Amlodipine 5mg once daily; Insulin glargine 20 units at bedtime; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 149/84, HR 66, Temp 98.6°F
+
+Follow-up scheduled in 12 weeks.",2025-04-26
+MRN_000055,40-49,Osteoarthritis,"Chronic Kidney Disease Stage 3, Hyperlipidemia",2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Chronic Kidney Disease Stage 3, Hyperlipidemia
+
+Chief Complaints: Reports chronic lower back pain.
+
+Current Medications: Insulin glargine 20 units at bedtime; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 143/71, HR 83, Temp 98.8°F
+
+Follow-up scheduled in 8 weeks.",2025-07-06
+MRN_000056,70-79,Chronic Obstructive Pulmonary Disease (COPD),"Congestive Heart Failure (CHF), Type 2 Diabetes Mellitus",2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Congestive Heart Failure (CHF), Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports chronic lower back pain, and difficulty sleeping.
+
+Current Medications: Albuterol inhaler as needed; Clopidogrel 75mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 128/77, HR 80, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2025-10-28
+MRN_000057,70-79,Osteoarthritis,"Coronary Artery Disease, Essential Hypertension",4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Coronary Artery Disease, Essential Hypertension
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Omeprazole 20mg once daily; Gabapentin 300mg three times daily; Aspirin 81mg once daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 145/90, HR 60, Temp 98.6°F
+
+Follow-up scheduled in 12 weeks.",2025-01-19
+MRN_000058,50-59,Gastroesophageal Reflux Disease (GERD),"Type 2 Diabetes Mellitus, Congestive Heart Failure (CHF)",4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Type 2 Diabetes Mellitus, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Losartan 50mg once daily; Warfarin 5mg once daily; Omeprazole 20mg once daily; Furosemide 40mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 139/71, HR 64, Temp 98.4°F
+
+Follow-up scheduled in 4 weeks.",2025-09-22
+MRN_000059,50-59,Hypothyroidism,None,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Hypothyroidism
+
+Chief Complaints: Reports palpitations and irregular heartbeat, and frequent urination and increased thirst.
+
+Current Medications: Insulin glargine 20 units at bedtime; Lisinopril 10mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 135/75, HR 81, Temp 98.0°F
+
+Follow-up scheduled in 4 weeks.",2025-11-16
+MRN_000060,40-49,Essential Hypertension,None,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension
+
+Chief Complaints: Reports persistent fatigue and weakness, and bilateral leg swelling.
+
+Current Medications: Furosemide 40mg once daily; Levothyroxine 50mcg once daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 119/86, HR 62, Temp 98.8°F
+
+Follow-up scheduled in 12 weeks.",2025-04-11
+MRN_000061,30-39,Peripheral Artery Disease,Gastroesophageal Reflux Disease (GERD),2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Losartan 50mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 114/89, HR 82, Temp 98.6°F
+
+Follow-up scheduled in 8 weeks.",2025-04-11
+MRN_000062,40-49,Congestive Heart Failure (CHF),"Osteoarthritis, Major Depressive Disorder",3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Osteoarthritis, Major Depressive Disorder
+
+Chief Complaints: Reports frequent urination and increased thirst, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Losartan 50mg once daily; Insulin glargine 20 units at bedtime; Furosemide 40mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 142/93, HR 73, Temp 98.3°F
+
+Follow-up scheduled in 8 weeks.",2025-04-04
+MRN_000063,50-59,Essential Hypertension,None,3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Warfarin 5mg once daily; Albuterol inhaler as needed; Omeprazole 20mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 117/88, HR 82, Temp 98.0°F
+
+Follow-up scheduled in 4 weeks.",2025-10-24
+MRN_000064,40-49,Asthma,None,4,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports intermittent dizziness, and bilateral leg swelling.
+
+Current Medications: Warfarin 5mg once daily; Lisinopril 10mg once daily; Gabapentin 300mg three times daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 117/77, HR 69, Temp 98.0°F
+
+Follow-up scheduled in 4 weeks.",2025-01-20
+MRN_000065,30-39,Chronic Obstructive Pulmonary Disease (COPD),Hypothyroidism,1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Hypothyroidism
+
+Chief Complaints: Reports persistent dry cough, and shortness of breath with minimal activity.
+
+Current Medications: Gabapentin 300mg three times daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 149/94, HR 60, Temp 98.6°F
+
+Follow-up scheduled in 2 weeks.",2025-04-04
+MRN_000066,70-79,Major Depressive Disorder,"Congestive Heart Failure (CHF), Atrial Fibrillation",3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Congestive Heart Failure (CHF), Atrial Fibrillation
+
+Chief Complaints: Reports numbness and tingling in extremities, and bilateral leg swelling.
+
+Current Medications: Clopidogrel 75mg once daily; Amlodipine 5mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 132/72, HR 77, Temp 98.3°F
+
+Follow-up scheduled in 12 weeks.",2025-06-25
+MRN_000067,50-59,Hyperlipidemia,None,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Gabapentin 300mg three times daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 138/71, HR 63, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-07-20
+MRN_000068,50-59,Coronary Artery Disease,Atrial Fibrillation,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Atrial Fibrillation
+
+Chief Complaints: Reports persistent fatigue and weakness, and bilateral leg swelling.
+
+Current Medications: Amlodipine 5mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 148/85, HR 80, Temp 98.9°F
+
+Follow-up scheduled in 12 weeks.",2025-07-21
+MRN_000069,80-89,Peripheral Artery Disease,None,3,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease
+
+Chief Complaints: Reports difficulty sleeping.
+
+Current Medications: Aspirin 81mg once daily; Albuterol inhaler as needed; Metformin 1000mg twice daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 113/83, HR 83, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-01-24
+MRN_000070,70-79,Chronic Kidney Disease Stage 3,"Chronic Obstructive Pulmonary Disease (COPD), Type 2 Diabetes Mellitus",4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Chronic Obstructive Pulmonary Disease (COPD), Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports difficulty sleeping, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Warfarin 5mg once daily; Amlodipine 5mg once daily; Atorvastatin 20mg at bedtime; Metformin 1000mg twice daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 117/75, HR 62, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-10-08
+MRN_000071,50-59,Type 2 Diabetes Mellitus,Congestive Heart Failure (CHF),2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Metformin 1000mg twice daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 135/88, HR 69, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-05-31
+MRN_000072,40-49,Coronary Artery Disease,None,4,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease
+
+Chief Complaints: Reports bilateral leg swelling, and intermittent dizziness.
+
+Current Medications: Insulin glargine 20 units at bedtime; Aspirin 81mg once daily; Gabapentin 300mg three times daily; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 134/85, HR 78, Temp 98.6°F
+
+Follow-up scheduled in 2 weeks.",2025-01-02
+MRN_000073,60-69,Asthma,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Omeprazole 20mg once daily; Lisinopril 10mg once daily; Metformin 1000mg twice daily; Warfarin 5mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 129/70, HR 80, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2024-12-30
+MRN_000074,60-69,Type 2 Diabetes Mellitus,None,3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports numbness and tingling in extremities, and frequent urination and increased thirst.
+
+Current Medications: Furosemide 40mg once daily; Amlodipine 5mg once daily; Aspirin 81mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 114/83, HR 78, Temp 98.7°F
+
+Follow-up scheduled in 12 weeks.",2025-08-06
+MRN_000075,40-49,Major Depressive Disorder,None,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder
+
+Chief Complaints: Reports bilateral leg swelling, and shortness of breath with minimal activity.
+
+Current Medications: Gabapentin 300mg three times daily; Amlodipine 5mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 132/94, HR 64, Temp 98.8°F
+
+Follow-up scheduled in 8 weeks.",2025-11-07
+MRN_000076,70-79,Peripheral Artery Disease,Hypothyroidism,2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Hypothyroidism
+
+Chief Complaints: Reports shortness of breath with minimal activity, and chronic lower back pain.
+
+Current Medications: Aspirin 81mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 141/73, HR 85, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2025-02-18
+MRN_000077,60-69,Chronic Kidney Disease Stage 3,None,3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports persistent fatigue and weakness, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Omeprazole 20mg once daily; Atorvastatin 20mg at bedtime; Aspirin 81mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 121/75, HR 80, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-05-14
+MRN_000078,60-69,Gastroesophageal Reflux Disease (GERD),"Asthma, Chronic Obstructive Pulmonary Disease (COPD)",3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Asthma, Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports chest pain on exertion, and shortness of breath with minimal activity.
+
+Current Medications: Furosemide 40mg once daily; Amlodipine 5mg once daily; Losartan 50mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 147/84, HR 79, Temp 98.0°F
+
+Follow-up scheduled in 8 weeks.",2025-04-18
+MRN_000079,40-49,Chronic Kidney Disease Stage 3,"Asthma, Atrial Fibrillation",4,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Asthma, Atrial Fibrillation
+
+Chief Complaints: Reports persistent fatigue and weakness, and frequent urination and increased thirst.
+
+Current Medications: Warfarin 5mg once daily; Albuterol inhaler as needed; Gabapentin 300mg three times daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 146/73, HR 72, Temp 98.0°F
+
+Follow-up scheduled in 4 weeks.",2025-09-23
+MRN_000080,50-59,Type 2 Diabetes Mellitus,None,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports chest pain on exertion, and bilateral leg swelling.
+
+Current Medications: Albuterol inhaler as needed; Aspirin 81mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 128/72, HR 80, Temp 98.8°F
+
+Follow-up scheduled in 12 weeks.",2025-09-11
+MRN_000081,60-69,Osteoarthritis,None,3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports intermittent dizziness, and difficulty sleeping.
+
+Current Medications: Omeprazole 20mg once daily; Gabapentin 300mg three times daily; Losartan 50mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 117/91, HR 90, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2025-04-26
+MRN_000082,70-79,Chronic Kidney Disease Stage 3,Major Depressive Disorder,1,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Major Depressive Disorder
+
+Chief Complaints: Reports chronic lower back pain, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Gabapentin 300mg three times daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 111/76, HR 78, Temp 98.7°F
+
+Follow-up scheduled in 2 weeks.",2025-01-12
+MRN_000083,40-49,Gastroesophageal Reflux Disease (GERD),"Congestive Heart Failure (CHF), Hyperlipidemia",1,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Congestive Heart Failure (CHF), Hyperlipidemia
+
+Chief Complaints: Reports persistent dry cough, and chronic lower back pain.
+
+Current Medications: Warfarin 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 129/81, HR 64, Temp 98.3°F
+
+Follow-up scheduled in 2 weeks.",2025-05-20
+MRN_000084,50-59,Essential Hypertension,Type 2 Diabetes Mellitus,1,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Albuterol inhaler as needed
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 132/74, HR 60, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-05-11
+MRN_000085,40-49,Chronic Kidney Disease Stage 3,None,1,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Gabapentin 300mg three times daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 122/71, HR 88, Temp 98.1°F
+
+Follow-up scheduled in 8 weeks.",2025-03-26
+MRN_000086,40-49,Osteoarthritis,Hyperlipidemia,2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Hyperlipidemia
+
+Chief Complaints: Reports chronic lower back pain.
+
+Current Medications: Atorvastatin 20mg at bedtime; Albuterol inhaler as needed
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 118/72, HR 85, Temp 98.6°F
+
+Follow-up scheduled in 12 weeks.",2025-11-10
+MRN_000087,30-39,Chronic Kidney Disease Stage 3,None,2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports numbness and tingling in extremities, and chronic lower back pain.
+
+Current Medications: Clopidogrel 75mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 135/73, HR 73, Temp 98.8°F
+
+Follow-up scheduled in 8 weeks.",2025-08-16
+MRN_000088,60-69,Coronary Artery Disease,"Major Depressive Disorder, Congestive Heart Failure (CHF)",2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Major Depressive Disorder, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports persistent fatigue and weakness.
+
+Current Medications: Albuterol inhaler as needed; Lisinopril 10mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 142/75, HR 74, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-11-07
+MRN_000089,50-59,Chronic Obstructive Pulmonary Disease (COPD),"Asthma, Hyperlipidemia",4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Asthma, Hyperlipidemia
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Gabapentin 300mg three times daily; Furosemide 40mg once daily; Levothyroxine 50mcg once daily; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 141/90, HR 85, Temp 98.1°F
+
+Follow-up scheduled in 8 weeks.",2025-01-20
+MRN_000090,30-39,Asthma,"Peripheral Artery Disease, Osteoarthritis",2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Asthma, Peripheral Artery Disease, Osteoarthritis
+
+Chief Complaints: Reports difficulty sleeping, and frequent urination and increased thirst.
+
+Current Medications: Losartan 50mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 130/74, HR 90, Temp 98.3°F
+
+Follow-up scheduled in 4 weeks.",2025-09-10
+MRN_000091,80-89,Congestive Heart Failure (CHF),Gastroesophageal Reflux Disease (GERD),4,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports persistent dry cough, and frequent urination and increased thirst.
+
+Current Medications: Gabapentin 300mg three times daily; Losartan 50mg once daily; Clopidogrel 75mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 148/77, HR 64, Temp 98.1°F
+
+Follow-up scheduled in 12 weeks.",2025-05-17
+MRN_000092,40-49,Gastroesophageal Reflux Disease (GERD),"Chronic Obstructive Pulmonary Disease (COPD), Essential Hypertension",2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Chronic Obstructive Pulmonary Disease (COPD), Essential Hypertension
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Gabapentin 300mg three times daily; Furosemide 40mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 135/75, HR 64, Temp 98.0°F
+
+Follow-up scheduled in 4 weeks.",2025-10-08
+MRN_000093,30-39,Type 2 Diabetes Mellitus,Atrial Fibrillation,1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Atrial Fibrillation
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 121/73, HR 61, Temp 98.5°F
+
+Follow-up scheduled in 12 weeks.",2025-11-06
+MRN_000094,50-59,Gastroesophageal Reflux Disease (GERD),None,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and difficulty sleeping.
+
+Current Medications: Omeprazole 20mg once daily; Losartan 50mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 124/92, HR 89, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2025-11-18
+MRN_000095,70-79,Hyperlipidemia,Congestive Heart Failure (CHF),4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports chronic lower back pain.
+
+Current Medications: Losartan 50mg once daily; Clopidogrel 75mg once daily; Insulin glargine 20 units at bedtime; Warfarin 5mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 135/86, HR 71, Temp 98.0°F
+
+Follow-up scheduled in 12 weeks.",2025-11-05
+MRN_000096,30-39,Atrial Fibrillation,None,3,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Gabapentin 300mg three times daily; Furosemide 40mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 128/78, HR 71, Temp 98.1°F
+
+Follow-up scheduled in 4 weeks.",2025-01-14
+MRN_000097,40-49,Type 2 Diabetes Mellitus,None,4,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Metformin 1000mg twice daily; Clopidogrel 75mg once daily; Lisinopril 10mg once daily; Furosemide 40mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 121/82, HR 68, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-06-15
+MRN_000098,40-49,Hypothyroidism,"Congestive Heart Failure (CHF), Gastroesophageal Reflux Disease (GERD)",4,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Hypothyroidism, Congestive Heart Failure (CHF), Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Gabapentin 300mg three times daily; Losartan 50mg once daily; Amlodipine 5mg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 124/90, HR 74, Temp 98.4°F
+
+Follow-up scheduled in 4 weeks.",2024-12-06
+MRN_000099,30-39,Gastroesophageal Reflux Disease (GERD),None,1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports palpitations and irregular heartbeat, and shortness of breath with minimal activity.
+
+Current Medications: Metformin 1000mg twice daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 129/71, HR 65, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2025-02-21
+MRN_000100,50-59,Congestive Heart Failure (CHF),Atrial Fibrillation,3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Atrial Fibrillation
+
+Chief Complaints: Reports intermittent dizziness, and difficulty sleeping.
+
+Current Medications: Aspirin 81mg once daily; Omeprazole 20mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 136/73, HR 80, Temp 98.5°F
+
+Follow-up scheduled in 12 weeks.",2024-12-07
+MRN_000101,30-39,Coronary Artery Disease,"Major Depressive Disorder, Hypothyroidism",3,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Major Depressive Disorder, Hypothyroidism
+
+Chief Complaints: Reports chronic lower back pain.
+
+Current Medications: Clopidogrel 75mg once daily; Aspirin 81mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 138/83, HR 90, Temp 98.3°F
+
+Follow-up scheduled in 8 weeks.",2024-11-20
+MRN_000102,30-39,Major Depressive Disorder,Coronary Artery Disease,3,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Coronary Artery Disease
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Furosemide 40mg once daily; Omeprazole 20mg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 144/79, HR 77, Temp 98.6°F
+
+Follow-up scheduled in 2 weeks.",2025-03-20
+MRN_000103,40-49,Major Depressive Disorder,None,1,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Levothyroxine 50mcg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 121/73, HR 87, Temp 98.2°F
+
+Follow-up scheduled in 4 weeks.",2025-06-09
+MRN_000104,60-69,Atrial Fibrillation,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation
+
+Chief Complaints: Reports difficulty sleeping, and persistent fatigue and weakness.
+
+Current Medications: Metformin 1000mg twice daily; Amlodipine 5mg once daily; Losartan 50mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 121/93, HR 65, Temp 98.0°F
+
+Follow-up scheduled in 2 weeks.",2025-03-14
+MRN_000105,40-49,Peripheral Artery Disease,"Congestive Heart Failure (CHF), Gastroesophageal Reflux Disease (GERD)",1,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Congestive Heart Failure (CHF), Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports persistent dry cough, and persistent fatigue and weakness.
+
+Current Medications: Aspirin 81mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 145/82, HR 85, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-10-20
+MRN_000106,70-79,Hyperlipidemia,None,2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia
+
+Chief Complaints: Reports difficulty sleeping, and frequent urination and increased thirst.
+
+Current Medications: Insulin glargine 20 units at bedtime; Amlodipine 5mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 142/89, HR 75, Temp 98.5°F
+
+Follow-up scheduled in 2 weeks.",2025-09-06
+MRN_000107,70-79,Atrial Fibrillation,Hyperlipidemia,1,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Hyperlipidemia
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Lisinopril 10mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 140/73, HR 89, Temp 98.5°F
+
+Follow-up scheduled in 8 weeks.",2024-11-30
+MRN_000108,70-79,Asthma,"Hyperlipidemia, Osteoarthritis",4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Asthma, Hyperlipidemia, Osteoarthritis
+
+Chief Complaints: Reports shortness of breath with minimal activity, and difficulty sleeping.
+
+Current Medications: Gabapentin 300mg three times daily; Amlodipine 5mg once daily; Warfarin 5mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 131/80, HR 90, Temp 98.0°F
+
+Follow-up scheduled in 8 weeks.",2025-01-09
+MRN_000109,40-49,Chronic Kidney Disease Stage 3,None,2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Clopidogrel 75mg once daily; Omeprazole 20mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 130/72, HR 67, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-10-26
+MRN_000110,30-39,Hyperlipidemia,None,2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Omeprazole 20mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 144/81, HR 69, Temp 98.0°F
+
+Follow-up scheduled in 12 weeks.",2025-06-29
+MRN_000111,50-59,Essential Hypertension,Hypothyroidism,3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Hypothyroidism
+
+Chief Complaints: Reports persistent dry cough, and chronic lower back pain.
+
+Current Medications: Clopidogrel 75mg once daily; Furosemide 40mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 124/70, HR 73, Temp 98.6°F
+
+Follow-up scheduled in 12 weeks.",2025-04-06
+MRN_000112,50-59,Hyperlipidemia,Congestive Heart Failure (CHF),2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports chest pain on exertion, and frequent urination and increased thirst.
+
+Current Medications: Aspirin 81mg once daily; Losartan 50mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 130/76, HR 90, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2024-12-26
+MRN_000113,40-49,Essential Hypertension,None,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Levothyroxine 50mcg once daily; Amlodipine 5mg once daily; Aspirin 81mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 150/94, HR 68, Temp 98.4°F
+
+Follow-up scheduled in 12 weeks.",2025-01-10
+MRN_000114,50-59,Asthma,None,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Aspirin 81mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 131/85, HR 80, Temp 98.7°F
+
+Follow-up scheduled in 12 weeks.",2024-12-02
+MRN_000115,50-59,Asthma,None,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports difficulty sleeping, and chest pain on exertion.
+
+Current Medications: Atorvastatin 20mg at bedtime; Albuterol inhaler as needed; Clopidogrel 75mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 111/94, HR 65, Temp 98.1°F
+
+Follow-up scheduled in 4 weeks.",2025-05-24
+MRN_000116,80-89,Atrial Fibrillation,None,4,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Aspirin 81mg once daily; Gabapentin 300mg three times daily; Amlodipine 5mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 124/80, HR 90, Temp 98.2°F
+
+Follow-up scheduled in 12 weeks.",2025-02-22
+MRN_000117,70-79,Essential Hypertension,None,1,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Warfarin 5mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 141/77, HR 69, Temp 98.5°F
+
+Follow-up scheduled in 8 weeks.",2025-02-13
+MRN_000118,70-79,Gastroesophageal Reflux Disease (GERD),"Peripheral Artery Disease, Osteoarthritis",2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Peripheral Artery Disease, Osteoarthritis
+
+Chief Complaints: Reports persistent dry cough, and bilateral leg swelling.
+
+Current Medications: Warfarin 5mg once daily; Furosemide 40mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 144/72, HR 87, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-07-28
+MRN_000119,70-79,Atrial Fibrillation,None,2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation
+
+Chief Complaints: Reports chronic lower back pain, and bilateral leg swelling.
+
+Current Medications: Amlodipine 5mg once daily; Furosemide 40mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 122/92, HR 68, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-05-06
+MRN_000120,60-69,Chronic Kidney Disease Stage 3,None,2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Amlodipine 5mg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 141/85, HR 87, Temp 98.0°F
+
+Follow-up scheduled in 12 weeks.",2025-09-25
+MRN_000121,70-79,Atrial Fibrillation,"Asthma, Hyperlipidemia",4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Asthma, Hyperlipidemia
+
+Chief Complaints: Reports persistent dry cough, and chronic lower back pain.
+
+Current Medications: Clopidogrel 75mg once daily; Furosemide 40mg once daily; Lisinopril 10mg once daily; Omeprazole 20mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 134/85, HR 70, Temp 98.9°F
+
+Follow-up scheduled in 12 weeks.",2025-08-08
+MRN_000122,50-59,Osteoarthritis,None,3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Lisinopril 10mg once daily; Aspirin 81mg once daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 132/71, HR 75, Temp 98.3°F
+
+Follow-up scheduled in 12 weeks.",2025-01-17
+MRN_000123,60-69,Coronary Artery Disease,None,2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease
+
+Chief Complaints: Reports chronic lower back pain, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Levothyroxine 50mcg once daily; Clopidogrel 75mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 120/81, HR 80, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-01-25
+MRN_000124,30-39,Chronic Kidney Disease Stage 3,"Coronary Artery Disease, Asthma",2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Coronary Artery Disease, Asthma
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Metformin 1000mg twice daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 110/88, HR 72, Temp 98.9°F
+
+Follow-up scheduled in 4 weeks.",2025-02-20
+MRN_000125,60-69,Chronic Kidney Disease Stage 3,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports palpitations and irregular heartbeat.
+
+Current Medications: Losartan 50mg once daily; Warfarin 5mg once daily; Insulin glargine 20 units at bedtime; Metformin 1000mg twice daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 141/92, HR 88, Temp 98.0°F
+
+Follow-up scheduled in 2 weeks.",2025-02-01
+MRN_000126,40-49,Chronic Obstructive Pulmonary Disease (COPD),None,4,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports frequent urination and increased thirst, and chest pain on exertion.
+
+Current Medications: Furosemide 40mg once daily; Warfarin 5mg once daily; Insulin glargine 20 units at bedtime; Lisinopril 10mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 113/75, HR 82, Temp 98.5°F
+
+Follow-up scheduled in 4 weeks.",2025-01-25
+MRN_000127,50-59,Gastroesophageal Reflux Disease (GERD),Chronic Kidney Disease Stage 3,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Lisinopril 10mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 133/77, HR 61, Temp 98.1°F
+
+Follow-up scheduled in 8 weeks.",2025-07-20
+MRN_000128,30-39,Hyperlipidemia,Atrial Fibrillation,3,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia, Atrial Fibrillation
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and frequent urination and increased thirst.
+
+Current Medications: Atorvastatin 20mg at bedtime; Omeprazole 20mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 139/70, HR 88, Temp 98.0°F
+
+Follow-up scheduled in 8 weeks.",2025-09-10
+MRN_000129,30-39,Atrial Fibrillation,"Chronic Kidney Disease Stage 3, Type 2 Diabetes Mellitus",4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Chronic Kidney Disease Stage 3, Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports chest pain on exertion, and difficulty sleeping.
+
+Current Medications: Lisinopril 10mg once daily; Amlodipine 5mg once daily; Albuterol inhaler as needed; Warfarin 5mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 128/70, HR 88, Temp 98.8°F
+
+Follow-up scheduled in 4 weeks.",2025-04-05
+MRN_000130,30-39,Congestive Heart Failure (CHF),"Hypothyroidism, Coronary Artery Disease",4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Hypothyroidism, Coronary Artery Disease
+
+Chief Complaints: Reports shortness of breath with minimal activity, and intermittent dizziness.
+
+Current Medications: Atorvastatin 20mg at bedtime; Levothyroxine 50mcg once daily; Lisinopril 10mg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 121/76, HR 74, Temp 98.5°F
+
+Follow-up scheduled in 4 weeks.",2025-10-19
+MRN_000131,40-49,Type 2 Diabetes Mellitus,Chronic Kidney Disease Stage 3,2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Metformin 1000mg twice daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 149/81, HR 84, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2025-07-26
+MRN_000132,50-59,Type 2 Diabetes Mellitus,None,1,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Aspirin 81mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 144/90, HR 88, Temp 98.3°F
+
+Follow-up scheduled in 12 weeks.",2025-03-20
+MRN_000133,50-59,Asthma,Essential Hypertension,1,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Asthma, Essential Hypertension
+
+Chief Complaints: Reports bilateral leg swelling, and persistent fatigue and weakness.
+
+Current Medications: Lisinopril 10mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 132/83, HR 64, Temp 98.6°F
+
+Follow-up scheduled in 8 weeks.",2025-09-16
+MRN_000134,40-49,Essential Hypertension,"Chronic Obstructive Pulmonary Disease (COPD), Peripheral Artery Disease",3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Chronic Obstructive Pulmonary Disease (COPD), Peripheral Artery Disease
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Lisinopril 10mg once daily; Metformin 1000mg twice daily; Aspirin 81mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 124/79, HR 88, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-10-10
+MRN_000135,70-79,Coronary Artery Disease,None,2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease
+
+Chief Complaints: Reports persistent dry cough, and palpitations and irregular heartbeat.
+
+Current Medications: Levothyroxine 50mcg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 150/83, HR 64, Temp 98.5°F
+
+Follow-up scheduled in 8 weeks.",2025-11-04
+MRN_000136,30-39,Chronic Kidney Disease Stage 3,"Hypothyroidism, Atrial Fibrillation",3,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Hypothyroidism, Atrial Fibrillation
+
+Chief Complaints: Reports persistent fatigue and weakness.
+
+Current Medications: Atorvastatin 20mg at bedtime; Warfarin 5mg once daily; Clopidogrel 75mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 129/88, HR 61, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-06-09
+MRN_000137,70-79,Hypothyroidism,Peripheral Artery Disease,1,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Hypothyroidism, Peripheral Artery Disease
+
+Chief Complaints: Reports palpitations and irregular heartbeat, and bilateral leg swelling.
+
+Current Medications: Amlodipine 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 121/87, HR 64, Temp 98.4°F
+
+Follow-up scheduled in 8 weeks.",2024-12-14
+MRN_000138,70-79,Peripheral Artery Disease,Osteoarthritis,1,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Osteoarthritis
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Levothyroxine 50mcg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 115/81, HR 61, Temp 98.8°F
+
+Follow-up scheduled in 4 weeks.",2025-09-28
+MRN_000139,60-69,Chronic Kidney Disease Stage 3,None,1,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 133/75, HR 73, Temp 98.2°F
+
+Follow-up scheduled in 12 weeks.",2025-03-29
+MRN_000140,70-79,Hypothyroidism,Chronic Kidney Disease Stage 3,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Hypothyroidism, Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Losartan 50mg once daily; Amlodipine 5mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 140/88, HR 70, Temp 98.7°F
+
+Follow-up scheduled in 4 weeks.",2025-01-23
+MRN_000141,40-49,Essential Hypertension,None,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension
+
+Chief Complaints: Reports intermittent dizziness, and difficulty sleeping.
+
+Current Medications: Furosemide 40mg once daily; Aspirin 81mg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 119/94, HR 83, Temp 98.3°F
+
+Follow-up scheduled in 12 weeks.",2025-09-27
+MRN_000142,50-59,Peripheral Artery Disease,"Osteoarthritis, Essential Hypertension",4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Osteoarthritis, Essential Hypertension
+
+Chief Complaints: Reports difficulty sleeping.
+
+Current Medications: Warfarin 5mg once daily; Omeprazole 20mg once daily; Insulin glargine 20 units at bedtime; Lisinopril 10mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 127/92, HR 84, Temp 98.8°F
+
+Follow-up scheduled in 4 weeks.",2025-11-17
+MRN_000143,40-49,Peripheral Artery Disease,Asthma,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Asthma
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Lisinopril 10mg once daily; Albuterol inhaler as needed; Warfarin 5mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 120/92, HR 90, Temp 98.9°F
+
+Follow-up scheduled in 12 weeks.",2025-10-10
+MRN_000144,60-69,Chronic Kidney Disease Stage 3,None,3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports palpitations and irregular heartbeat, and numbness and tingling in extremities.
+
+Current Medications: Amlodipine 5mg once daily; Lisinopril 10mg once daily; Clopidogrel 75mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 142/87, HR 75, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-09-24
+MRN_000145,50-59,Major Depressive Disorder,Asthma,3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Asthma
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Losartan 50mg once daily; Amlodipine 5mg once daily; Gabapentin 300mg three times daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 126/71, HR 83, Temp 98.9°F
+
+Follow-up scheduled in 4 weeks.",2024-11-24
+MRN_000146,60-69,Osteoarthritis,None,3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Lisinopril 10mg once daily; Amlodipine 5mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 145/78, HR 65, Temp 98.5°F
+
+Follow-up scheduled in 2 weeks.",2024-12-08
+MRN_000147,80-89,Hyperlipidemia,Chronic Obstructive Pulmonary Disease (COPD),3,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Hyperlipidemia, Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Gabapentin 300mg three times daily; Losartan 50mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 149/89, HR 88, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2025-06-26
+MRN_000148,40-49,Gastroesophageal Reflux Disease (GERD),None,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports chest pain on exertion, and difficulty sleeping.
+
+Current Medications: Aspirin 81mg once daily; Lisinopril 10mg once daily; Omeprazole 20mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 118/93, HR 61, Temp 98.0°F
+
+Follow-up scheduled in 2 weeks.",2025-04-18
+MRN_000149,40-49,Major Depressive Disorder,"Hypothyroidism, Hyperlipidemia",2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Hypothyroidism, Hyperlipidemia
+
+Chief Complaints: Reports difficulty sleeping.
+
+Current Medications: Aspirin 81mg once daily; Losartan 50mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 128/76, HR 62, Temp 98.2°F
+
+Follow-up scheduled in 12 weeks.",2025-06-16
+MRN_000150,80-89,Gastroesophageal Reflux Disease (GERD),None,3,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and shortness of breath with minimal activity.
+
+Current Medications: Lisinopril 10mg once daily; Atorvastatin 20mg at bedtime; Albuterol inhaler as needed
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 140/84, HR 73, Temp 98.3°F
+
+Follow-up scheduled in 4 weeks.",2025-05-17
+MRN_000151,70-79,Major Depressive Disorder,None,4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Clopidogrel 75mg once daily; Amlodipine 5mg once daily; Atorvastatin 20mg at bedtime; Furosemide 40mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 136/87, HR 68, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2024-11-20
+MRN_000152,60-69,Gastroesophageal Reflux Disease (GERD),"Congestive Heart Failure (CHF), Major Depressive Disorder",2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Congestive Heart Failure (CHF), Major Depressive Disorder
+
+Chief Complaints: Reports numbness and tingling in extremities, and chest pain on exertion.
+
+Current Medications: Albuterol inhaler as needed; Gabapentin 300mg three times daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 147/78, HR 87, Temp 98.0°F
+
+Follow-up scheduled in 8 weeks.",2025-10-11
+MRN_000153,60-69,Essential Hypertension,Congestive Heart Failure (CHF),4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports chest pain on exertion, and frequent urination and increased thirst.
+
+Current Medications: Metformin 1000mg twice daily; Aspirin 81mg once daily; Omeprazole 20mg once daily; Clopidogrel 75mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 133/70, HR 82, Temp 98.8°F
+
+Follow-up scheduled in 12 weeks.",2024-12-08
+MRN_000154,50-59,Peripheral Artery Disease,Congestive Heart Failure (CHF),3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and difficulty sleeping.
+
+Current Medications: Clopidogrel 75mg once daily; Gabapentin 300mg three times daily; Furosemide 40mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 121/80, HR 62, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2025-09-17
+MRN_000155,40-49,Atrial Fibrillation,Osteoarthritis,1,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Osteoarthritis
+
+Chief Complaints: Reports chronic lower back pain, and difficulty sleeping.
+
+Current Medications: Lisinopril 10mg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 147/76, HR 72, Temp 98.3°F
+
+Follow-up scheduled in 12 weeks.",2025-01-30
+MRN_000156,70-79,Atrial Fibrillation,None,1,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation
+
+Chief Complaints: Reports chronic lower back pain.
+
+Current Medications: Omeprazole 20mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 140/95, HR 86, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-08-25
+MRN_000157,80-89,Hypothyroidism,Chronic Obstructive Pulmonary Disease (COPD),2,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Hypothyroidism, Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports chronic lower back pain, and bilateral leg swelling.
+
+Current Medications: Albuterol inhaler as needed; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 140/89, HR 89, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2025-06-21
+MRN_000158,50-59,Essential Hypertension,Chronic Kidney Disease Stage 3,2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports persistent fatigue and weakness.
+
+Current Medications: Warfarin 5mg once daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 136/88, HR 77, Temp 98.7°F
+
+Follow-up scheduled in 2 weeks.",2025-01-02
+MRN_000159,60-69,Asthma,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Asthma
+
+Chief Complaints: Reports chest pain on exertion.
+
+Current Medications: Aspirin 81mg once daily; Amlodipine 5mg once daily; Atorvastatin 20mg at bedtime; Losartan 50mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 148/89, HR 76, Temp 98.9°F
+
+Follow-up scheduled in 12 weeks.",2025-08-27
+MRN_000160,50-59,Hypothyroidism,Peripheral Artery Disease,3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Hypothyroidism, Peripheral Artery Disease
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Atorvastatin 20mg at bedtime; Lisinopril 10mg once daily; Clopidogrel 75mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 119/89, HR 82, Temp 98.4°F
+
+Follow-up scheduled in 8 weeks.",2024-12-16
+MRN_000161,70-79,Coronary Artery Disease,None,4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Amlodipine 5mg once daily; Levothyroxine 50mcg once daily; Furosemide 40mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 132/84, HR 86, Temp 98.4°F
+
+Follow-up scheduled in 12 weeks.",2025-10-02
+MRN_000162,50-59,Type 2 Diabetes Mellitus,"Atrial Fibrillation, Coronary Artery Disease",3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Atrial Fibrillation, Coronary Artery Disease
+
+Chief Complaints: Reports chronic lower back pain, and frequent urination and increased thirst.
+
+Current Medications: Warfarin 5mg once daily; Amlodipine 5mg once daily; Aspirin 81mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 123/75, HR 90, Temp 98.3°F
+
+Follow-up scheduled in 4 weeks.",2024-12-18
+MRN_000163,70-79,Atrial Fibrillation,Essential Hypertension,2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Essential Hypertension
+
+Chief Complaints: Reports intermittent dizziness, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Losartan 50mg once daily; Albuterol inhaler as needed
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 120/84, HR 65, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2025-10-14
+MRN_000164,40-49,Gastroesophageal Reflux Disease (GERD),"Hypothyroidism, Chronic Kidney Disease Stage 3",1,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD), Hypothyroidism, Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports intermittent dizziness.
+
+Current Medications: Albuterol inhaler as needed
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 120/93, HR 73, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-04-18
+MRN_000165,70-79,Atrial Fibrillation,Hyperlipidemia,2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation, Hyperlipidemia
+
+Chief Complaints: Reports chest pain on exertion, and bilateral leg swelling.
+
+Current Medications: Albuterol inhaler as needed; Furosemide 40mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 144/91, HR 62, Temp 98.1°F
+
+Follow-up scheduled in 8 weeks.",2025-06-15
+MRN_000166,60-69,Osteoarthritis,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports difficulty sleeping, and palpitations and irregular heartbeat.
+
+Current Medications: Omeprazole 20mg once daily; Furosemide 40mg once daily; Clopidogrel 75mg once daily; Aspirin 81mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 147/77, HR 61, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2025-01-28
+MRN_000167,40-49,Atrial Fibrillation,None,3,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation
+
+Chief Complaints: Reports difficulty sleeping.
+
+Current Medications: Albuterol inhaler as needed; Insulin glargine 20 units at bedtime; Omeprazole 20mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 127/84, HR 89, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-10-26
+MRN_000168,40-49,Essential Hypertension,None,2,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension
+
+Chief Complaints: Reports persistent fatigue and weakness, and bilateral leg swelling.
+
+Current Medications: Gabapentin 300mg three times daily; Warfarin 5mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 122/76, HR 81, Temp 98.7°F
+
+Follow-up scheduled in 4 weeks.",2025-04-11
+MRN_000169,70-79,Osteoarthritis,None,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Gabapentin 300mg three times daily; Insulin glargine 20 units at bedtime; Albuterol inhaler as needed
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 142/81, HR 81, Temp 98.0°F
+
+Follow-up scheduled in 2 weeks.",2025-04-25
+MRN_000170,80-89,Major Depressive Disorder,"Osteoarthritis, Hypothyroidism",3,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Osteoarthritis, Hypothyroidism
+
+Chief Complaints: Reports bilateral leg swelling, and chronic lower back pain.
+
+Current Medications: Metformin 1000mg twice daily; Omeprazole 20mg once daily; Atorvastatin 20mg at bedtime
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 111/72, HR 70, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2024-12-01
+MRN_000171,60-69,Type 2 Diabetes Mellitus,None,3,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports palpitations and irregular heartbeat.
+
+Current Medications: Clopidogrel 75mg once daily; Lisinopril 10mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 129/95, HR 81, Temp 98.2°F
+
+Follow-up scheduled in 12 weeks.",2025-06-28
+MRN_000172,70-79,Osteoarthritis,Atrial Fibrillation,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Atrial Fibrillation
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL), and bilateral leg swelling.
+
+Current Medications: Lisinopril 10mg once daily; Furosemide 40mg once daily; Gabapentin 300mg three times daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 110/74, HR 85, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-06-06
+MRN_000173,80-89,Gastroesophageal Reflux Disease (GERD),None,3,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports persistent fatigue and weakness.
+
+Current Medications: Furosemide 40mg once daily; Gabapentin 300mg three times daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 146/73, HR 82, Temp 98.4°F
+
+Follow-up scheduled in 8 weeks.",2025-03-15
+MRN_000174,30-39,Coronary Artery Disease,"Chronic Kidney Disease Stage 3, Congestive Heart Failure (CHF)",1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Chronic Kidney Disease Stage 3, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports persistent fatigue and weakness, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Clopidogrel 75mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 124/76, HR 79, Temp 98.2°F
+
+Follow-up scheduled in 4 weeks.",2025-03-02
+MRN_000175,80-89,Hypothyroidism,"Congestive Heart Failure (CHF), Type 2 Diabetes Mellitus",1,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Hypothyroidism, Congestive Heart Failure (CHF), Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports palpitations and irregular heartbeat.
+
+Current Medications: Amlodipine 5mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 139/86, HR 65, Temp 98.4°F
+
+Follow-up scheduled in 2 weeks.",2025-09-06
+MRN_000176,40-49,Chronic Kidney Disease Stage 3,None,1,"Patient in 40-49 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports bilateral leg swelling, and chest pain on exertion.
+
+Current Medications: Gabapentin 300mg three times daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 148/84, HR 72, Temp 98.2°F
+
+Follow-up scheduled in 2 weeks.",2025-06-16
+MRN_000177,70-79,Type 2 Diabetes Mellitus,Gastroesophageal Reflux Disease (GERD),4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Gabapentin 300mg three times daily; Warfarin 5mg once daily; Clopidogrel 75mg once daily; Insulin glargine 20 units at bedtime
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 143/90, HR 72, Temp 98.9°F
+
+Follow-up scheduled in 4 weeks.",2025-01-21
+MRN_000178,50-59,Peripheral Artery Disease,Essential Hypertension,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Peripheral Artery Disease, Essential Hypertension
+
+Chief Complaints: Reports numbness and tingling in extremities, and bilateral leg swelling.
+
+Current Medications: Furosemide 40mg once daily; Atorvastatin 20mg at bedtime; Warfarin 5mg once daily; Losartan 50mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 133/80, HR 88, Temp 98.0°F
+
+Follow-up scheduled in 4 weeks.",2025-11-09
+MRN_000179,60-69,Chronic Kidney Disease Stage 3,Hyperlipidemia,2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Hyperlipidemia
+
+Chief Complaints: Reports bilateral leg swelling, and persistent dry cough.
+
+Current Medications: Aspirin 81mg once daily; Amlodipine 5mg once daily
+
+Assessment and Plan: Started on medication therapy, lifestyle modifications recommended
+
+Vital Signs: BP 146/80, HR 70, Temp 98.5°F
+
+Follow-up scheduled in 2 weeks.",2025-09-20
+MRN_000180,30-39,Asthma,Essential Hypertension,4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Asthma, Essential Hypertension
+
+Chief Complaints: Reports frequent urination and increased thirst, and persistent dry cough.
+
+Current Medications: Losartan 50mg once daily; Atorvastatin 20mg at bedtime; Albuterol inhaler as needed; Aspirin 81mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 140/83, HR 84, Temp 98.8°F
+
+Follow-up scheduled in 8 weeks.",2025-03-05
+MRN_000181,70-79,Type 2 Diabetes Mellitus,None,3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Atorvastatin 20mg at bedtime; Aspirin 81mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Labs ordered: HbA1c, lipid panel, BMP
+
+Vital Signs: BP 131/84, HR 74, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-04-26
+MRN_000182,30-39,Major Depressive Disorder,"Hypothyroidism, Gastroesophageal Reflux Disease (GERD)",1,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Major Depressive Disorder, Hypothyroidism, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Lisinopril 10mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 118/71, HR 89, Temp 98.5°F
+
+Follow-up scheduled in 4 weeks.",2025-05-20
+MRN_000183,60-69,Osteoarthritis,Congestive Heart Failure (CHF),4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports numbness and tingling in extremities, and bilateral leg swelling.
+
+Current Medications: Lisinopril 10mg once daily; Albuterol inhaler as needed; Insulin glargine 20 units at bedtime; Amlodipine 5mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 132/90, HR 66, Temp 98.6°F
+
+Follow-up scheduled in 2 weeks.",2024-12-04
+MRN_000184,50-59,Osteoarthritis,None,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Amlodipine 5mg once daily; Aspirin 81mg once daily; Lisinopril 10mg once daily; Metformin 1000mg twice daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 135/73, HR 62, Temp 98.3°F
+
+Follow-up scheduled in 8 weeks.",2025-11-05
+MRN_000185,50-59,Chronic Kidney Disease Stage 3,Atrial Fibrillation,4,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3, Atrial Fibrillation
+
+Chief Complaints: Reports frequent urination and increased thirst, and persistent dry cough.
+
+Current Medications: Lisinopril 10mg once daily; Warfarin 5mg once daily; Clopidogrel 75mg once daily; Omeprazole 20mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 126/94, HR 67, Temp 98.7°F
+
+Follow-up scheduled in 12 weeks.",2025-06-25
+MRN_000186,30-39,Essential Hypertension,Hyperlipidemia,2,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Hyperlipidemia
+
+Chief Complaints: Reports intermittent dizziness, and elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Aspirin 81mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 133/91, HR 70, Temp 98.8°F
+
+Follow-up scheduled in 2 weeks.",2025-05-22
+MRN_000187,70-79,Osteoarthritis,"Congestive Heart Failure (CHF), Gastroesophageal Reflux Disease (GERD)",4,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Congestive Heart Failure (CHF), Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports elevated fasting blood glucose (140-180 mg/dL).
+
+Current Medications: Warfarin 5mg once daily; Amlodipine 5mg once daily; Losartan 50mg once daily; Omeprazole 20mg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 139/72, HR 85, Temp 98.9°F
+
+Follow-up scheduled in 12 weeks.",2025-07-03
+MRN_000188,30-39,Congestive Heart Failure (CHF),"Chronic Obstructive Pulmonary Disease (COPD), Coronary Artery Disease",4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Chronic Obstructive Pulmonary Disease (COPD), Coronary Artery Disease
+
+Chief Complaints: Reports chronic lower back pain, and bilateral leg swelling.
+
+Current Medications: Levothyroxine 50mcg once daily; Losartan 50mg once daily; Albuterol inhaler as needed; Furosemide 40mg once daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 124/74, HR 88, Temp 98.9°F
+
+Follow-up scheduled in 8 weeks.",2025-08-03
+MRN_000189,60-69,Gastroesophageal Reflux Disease (GERD),None,2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports bilateral leg swelling, and shortness of breath with minimal activity.
+
+Current Medications: Losartan 50mg once daily; Warfarin 5mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 139/79, HR 80, Temp 98.4°F
+
+Follow-up scheduled in 4 weeks.",2025-09-02
+MRN_000190,60-69,Atrial Fibrillation,None,4,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Atrial Fibrillation
+
+Chief Complaints: Reports frequent urination and increased thirst, and chest pain on exertion.
+
+Current Medications: Losartan 50mg once daily; Levothyroxine 50mcg once daily; Atorvastatin 20mg at bedtime; Amlodipine 5mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 142/73, HR 75, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-03-24
+MRN_000191,70-79,Essential Hypertension,"Chronic Kidney Disease Stage 3, Gastroesophageal Reflux Disease (GERD)",3,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Essential Hypertension, Chronic Kidney Disease Stage 3, Gastroesophageal Reflux Disease (GERD)
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Warfarin 5mg once daily; Insulin glargine 20 units at bedtime; Metformin 1000mg twice daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 127/70, HR 66, Temp 98.6°F
+
+Follow-up scheduled in 8 weeks.",2025-10-02
+MRN_000192,50-59,Congestive Heart Failure (CHF),"Essential Hypertension, Chronic Obstructive Pulmonary Disease (COPD)",2,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Essential Hypertension, Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports frequent urination and increased thirst.
+
+Current Medications: Aspirin 81mg once daily; Gabapentin 300mg three times daily
+
+Assessment and Plan: Referred to cardiology for further evaluation
+
+Vital Signs: BP 143/84, HR 84, Temp 98.1°F
+
+Follow-up scheduled in 8 weeks.",2025-02-26
+MRN_000193,50-59,Coronary Artery Disease,"Essential Hypertension, Type 2 Diabetes Mellitus",3,"Patient in 50-59 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Essential Hypertension, Type 2 Diabetes Mellitus
+
+Chief Complaints: Reports bilateral leg swelling, and chronic lower back pain.
+
+Current Medications: Amlodipine 5mg once daily; Gabapentin 300mg three times daily; Losartan 50mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 127/90, HR 72, Temp 98.9°F
+
+Follow-up scheduled in 2 weeks.",2025-10-05
+MRN_000194,80-89,Chronic Kidney Disease Stage 3,None,2,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Chronic Kidney Disease Stage 3
+
+Chief Complaints: Reports numbness and tingling in extremities.
+
+Current Medications: Gabapentin 300mg three times daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Emergency department visit if symptoms worsen
+
+Vital Signs: BP 140/78, HR 63, Temp 98.7°F
+
+Follow-up scheduled in 2 weeks.",2025-07-25
+MRN_000195,80-89,Coronary Artery Disease,None,2,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease
+
+Chief Complaints: Reports persistent dry cough.
+
+Current Medications: Losartan 50mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Dietary consultation scheduled
+
+Vital Signs: BP 111/74, HR 77, Temp 98.5°F
+
+Follow-up scheduled in 2 weeks.",2025-11-10
+MRN_000196,60-69,Coronary Artery Disease,"Atrial Fibrillation, Essential Hypertension",2,"Patient in 60-69 age range presents for follow-up. 
+
+Active Diagnoses: Coronary Artery Disease, Atrial Fibrillation, Essential Hypertension
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Clopidogrel 75mg once daily; Lisinopril 10mg once daily
+
+Assessment and Plan: Dosage adjustment made, follow-up in 4 weeks
+
+Vital Signs: BP 122/92, HR 74, Temp 98.1°F
+
+Follow-up scheduled in 2 weeks.",2024-11-23
+MRN_000197,70-79,Congestive Heart Failure (CHF),Chronic Obstructive Pulmonary Disease (COPD),2,"Patient in 70-79 age range presents for follow-up. 
+
+Active Diagnoses: Congestive Heart Failure (CHF), Chronic Obstructive Pulmonary Disease (COPD)
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Metformin 1000mg twice daily; Clopidogrel 75mg once daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 140/79, HR 66, Temp 98.7°F
+
+Follow-up scheduled in 8 weeks.",2025-10-01
+MRN_000198,30-39,Type 2 Diabetes Mellitus,Asthma,4,"Patient in 30-39 age range presents for follow-up. 
+
+Active Diagnoses: Type 2 Diabetes Mellitus, Asthma
+
+Chief Complaints: Reports bilateral leg swelling.
+
+Current Medications: Losartan 50mg once daily; Furosemide 40mg once daily; Amlodipine 5mg once daily; Levothyroxine 50mcg once daily
+
+Assessment and Plan: Physical therapy referral provided
+
+Vital Signs: BP 132/75, HR 71, Temp 98.4°F
+
+Follow-up scheduled in 8 weeks.",2025-02-06
+MRN_000199,80-89,Osteoarthritis,Congestive Heart Failure (CHF),1,"Patient in 80-89 age range presents for follow-up. 
+
+Active Diagnoses: Osteoarthritis, Congestive Heart Failure (CHF)
+
+Chief Complaints: Reports shortness of breath with minimal activity.
+
+Current Medications: Metformin 1000mg twice daily
+
+Assessment and Plan: Continue current medications, monitoring advised
+
+Vital Signs: BP 119/87, HR 60, Temp 98.4°F
+
+Follow-up scheduled in 4 weeks.",2025-11-12

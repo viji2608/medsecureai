@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "total_operations": 8,
+    "successful_operations": 8,
+    "failed_operations": 0,
+    "collections_created": 1
+  },
+  "insert_performance": {
+    "total_inserts": 4,
+    "total_records_inserted": 200,
+    "avg_latency_ms": 500.2133250236511,
+    "avg_throughput": 99.95735415479791,
+    "min_latency_ms": 500.1506805419922,
+    "max_latency_ms": 500.2884864807129
+  },
+  "search_performance": {
+    "total_searches": 3,
+    "avg_query_latency_ms": 53.22400728861491,
+    "min_query_latency_ms": 52.498817443847656,
+    "max_query_latency_ms": 54.35967445373535,
+    "p95_latency_ms": 54.20506000518799,
+    "p99_latency_ms": 54.32875156402588
+  },
+  "failures": []
+}

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedSecureAI - Clinical Assistant</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 900px;
+            width: 100%;
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header .subtitle {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+        
+        .security-badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            padding: 5px 15px;
+            border-radius: 20px;
+            margin-top: 10px;
+            font-size: 0.9em;
+        }
+        
+        .main-content {
+            padding: 40px;
+        }
+        
+        .query-section {
+            margin-bottom: 30px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        input, textarea {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 1em;
+            transition: all 0.3s;
+        }
+        
+        input:focus, textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+        
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+            font-family: inherit;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        button {
+            flex: 1;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-secondary {
+            background: #f0f0f0;
+            color: #333;
+        }
+        
+        .btn-secondary:hover {
+            background: #e0e0e0;
+        }
+        
+        .results-section {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            display: none;
+        }
+        
+        .results-section.active {
+            display: block;
+        }
+        
+        .result-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        
+        .result-meta {
+            font-size: 0.9em;
+            color: #666;
+        }
+        
+        .security-info {
+            background: #e8f5e9;
+            border-left: 4px solid #4caf50;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        
+        .security-info h3 {
+            color: #2e7d32;
+            margin-bottom: 10px;
+        }
+        
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .metric-card {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .metric-value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .metric-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏥 MedSecureAI</h1>
+            <div class="subtitle">HIPAA-Compliant Clinical Assistant</div>
+            <div class="security-badge">🔒 End-to-End Encrypted</div>
+        </div>
+        
+        <div class="main-content">
+            <div class="query-section">
+                <label for="userId">Clinician ID:</label>
+                <input type="text" id="userId" placeholder="e.g., DR001" value="DR001">
+                
+                <label for="query" style="margin-top: 20px;">Clinical Query:</label>
+                <textarea id="query" placeholder="Enter your clinical question...
+Example: What treatment options are effective for Type 2 Diabetes in elderly patients?"></textarea>
+                
+                <div class="button-group">
+                    <button class="btn-primary" onclick="submitQuery()">🔍 Search Encrypted Database</button>
+                    <button class="btn-secondary" onclick="clearResults()">Clear</button>
+                </div>
+            </div>
+            
+            <div id="results" class="results-section">
+                <h2>Results</h2>
+                <div id="resultsContent"></div>
+                
+                <div class="security-info">
+                    <h3>🔒 Security & Privacy</h3>
+                    <p>✓ Query encrypted in transit</p>
+                    <p>✓ Vector search performed on encrypted data</p>
+                    <p>✓ Results decrypted only in secure memory</p>
+                    <p>✓ All access logged for HIPAA compliance</p>
+                </div>
+                
+                <div class="metrics" id="metrics"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8000';
+        
+        async function submitQuery() {
+            const userId = document.getElementById('userId').value;
+            const query = document.getElementById('query').value;
+            
+            if (!userId || !query) {
+                alert('Please enter both Clinician ID and query');
+                return;
+            }
+            
+            // Show loading
+            const resultsDiv = document.getElementById('results');
+            const contentDiv = document.getElementById('resultsContent');
+            resultsDiv.classList.add('active');
+            contentDiv.innerHTML = '<div class="loading"><div class="spinner"></div><p>Searching encrypted database...</p></div>';
+            
+            try {
+                // Make API call
+                const response = await fetch(`${API_BASE}/query`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        question: query,
+                        user_id: userId,
+                        top_k: 5
+                    })
+                });
+                
+                const data = await response.json();
+                
+                // Display results
+                displayResults(data);
+                await loadMetrics();
+                
+            } catch (error) {
+                contentDiv.innerHTML = `
+                    <div class="result-card" style="border-left-color: #f44336;">
+                        <h3 style="color: #f44336;">⚠️ Error</h3>
+                        <p>${error.message}</p>
+                        <p style="margin-top: 10px; font-size: 0.9em; color: #666;">
+                            <strong>Demo Mode:</strong> Make sure the backend is running on localhost:8000
+                        </p>
+                    </div>
+                `;
+            }
+        }
+        
+        function displayResults(data) {
+            const contentDiv = document.getElementById('resultsContent');
+            
+            let html = `
+                <div class="result-card">
+                    <div class="result-header">
+                        <h3>🤖 Clinical Assistant Response</h3>
+                        <span class="result-meta">Query ID: ${data.query_id}</span>
+                    </div>
+                    <p style="line-height: 1.6; white-space: pre-wrap;">${data.answer}</p>
+                </div>
+            `;
+            
+            if (data.sources && data.sources.length > 0) {
+                html += '<h3 style="margin: 20px 0 10px 0;">📚 Source Records</h3>';
+                data.sources.forEach((source, idx) => {
+                    html += `
+                        <div class="result-card">
+                            <div class="result-header">
+                                <strong>Record ${idx + 1}</strong>
+                                <span class="result-meta">Similarity: ${(source.score * 100).toFixed(1)}%</span>
+                            </div>
+                            <p>${source.text || 'Encrypted source retrieved'}</p>
+                        </div>
+                    `;
+                });
+            }
+            
+            contentDiv.innerHTML = html;
+        }
+        
+        async function loadMetrics() {
+            try {
+                const response = await fetch(`${API_BASE}/metrics`);
+                const data = await response.json();
+                const metrics = data.performance;
+                
+                const metricsDiv = document.getElementById('metrics');
+                metricsDiv.innerHTML = `
+                    <div class="metric-card">
+                        <div class="metric-value">${metrics.summary?.total_operations || 0}</div>
+                        <div class="metric-label">Total Operations</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">${metrics.search_performance?.avg_query_latency_ms?.toFixed(0) || 0}ms</div>
+                        <div class="metric-label">Avg Query Time</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">${metrics.insert_performance?.total_records_inserted || 0}</div>
+                        <div class="metric-label">Records Inserted</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">${metrics.search_performance?.total_searches || 0}</div>
+                        <div class="metric-label">Searches Performed</div>
+                    </div>
+                `;
+            } catch (error) {
+                console.error('Failed to load metrics:', error);
+            }
+        }
+        
+        function clearResults() {
+            document.getElementById('query').value = '';
+            document.getElementById('results').classList.remove('active');
+        }
+        
+        // Demo mode
+        window.addEventListener('load', () => {
+            console.log('MedSecureAI Interface Loaded');
+            console.log('Backend should be running at:', API_BASE);
+        });
+    </script>
+</body>
+</html>
