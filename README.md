@@ -66,7 +66,7 @@ Hospitals store vast patient data in Electronic Health Records (EHRs), but **pri
 ---
 
 ## 📊 Technical Architecture
-
+```
 
 ┌─────────────────────────────────────────────────────────┐
 │                    Clinical User                        │
@@ -95,7 +95,7 @@ Hospitals store vast patient data in Electronic Health Records (EHRs), but **pri
 │              CyborgDB (Encrypted)                        │
 │     256-bit AES  │  IVFFlat Index  │  Cosine Distance   │
 └─────────────────────────────────────────────────────────┘
-
+```
 
 ---
 
