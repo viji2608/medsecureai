@@ -456,7 +456,7 @@ Get system performance metrics.
   "encryption": "REAL 256-bit AES"
 }
 
-
+```
 ### Development Setup
 
 # Fork and clone
@@ -477,7 +477,7 @@ git push origin feature/amazing-feature
 ## 📄 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
+```
 ---
 
 ## 👥 Team 
