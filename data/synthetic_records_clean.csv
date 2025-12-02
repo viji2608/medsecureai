@@ -1,0 +1,5001 @@
+record_id,age_range,primary_condition,comorbidities,medication_count,clinical_summary,created_date
+MRN_000000,50-59,Chronic Obstructive Pulmonary Disease,Essential Hypertension,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 116/73 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-18
+MRN_000001,60-69,Coronary Artery Disease,Chronic Kidney Disease,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 119/76 mmHg
+- Heart Rate: 82 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-12-02
+MRN_000002,60-69,Coronary Artery Disease,"Chronic Kidney Disease, Hyperlipidemia",4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease, Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Lisinopril 10mg once daily
+• Furosemide 40mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 129/77 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-24
+MRN_000003,40-49,Congestive Heart Failure,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Lisinopril 10mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 142/77 mmHg
+- Heart Rate: 68 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-12
+MRN_000004,70-79,Essential Hypertension,Type 2 Diabetes Mellitus,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 124/84 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-18
+MRN_000005,80-89,Atrial Fibrillation,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 139/83 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-22
+MRN_000006,80-89,Type 2 Diabetes Mellitus,Asthma,3,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Asthma
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 132/78 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-13
+MRN_000007,70-79,Chronic Obstructive Pulmonary Disease,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 111/86 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-12-02
+MRN_000008,40-49,Coronary Artery Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Albuterol inhaler as needed
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 142/79 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-29
+MRN_000009,40-49,Coronary Artery Disease,Atrial Fibrillation,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 126/85 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-18
+MRN_000010,70-79,Atrial Fibrillation,"Chronic Obstructive Pulmonary Disease, Osteoarthritis",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Chronic Obstructive Pulmonary Disease, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 111/78 mmHg
+- Heart Rate: 68 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-17
+MRN_000011,50-59,Chronic Kidney Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 125/80 mmHg
+- Heart Rate: 65 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-16
+MRN_000012,60-69,Essential Hypertension,Congestive Heart Failure,2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 117/74 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-16
+MRN_000013,40-49,Chronic Kidney Disease,Chronic Obstructive Pulmonary Disease,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 121/72 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-12
+MRN_000014,80-89,Essential Hypertension,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Albuterol inhaler as needed
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 140/76 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-16
+MRN_000015,80-89,Chronic Obstructive Pulmonary Disease,"Osteoarthritis, Essential Hypertension",4,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Osteoarthritis, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 121/83 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-07
+MRN_000016,60-69,Essential Hypertension,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 113/71 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-30
+MRN_000017,70-79,Chronic Obstructive Pulmonary Disease,"Coronary Artery Disease, Essential Hypertension",4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Coronary Artery Disease, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 136/70 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-16
+MRN_000018,40-49,Essential Hypertension,Asthma,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Asthma
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 110/86 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-10
+MRN_000019,70-79,Chronic Kidney Disease,Osteoarthritis,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 110/88 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-13
+MRN_000020,40-49,Asthma,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 139/80 mmHg
+- Heart Rate: 66 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-30
+MRN_000021,70-79,Coronary Artery Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Amlodipine 5mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 129/74 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-09
+MRN_000022,60-69,Coronary Artery Disease,Chronic Kidney Disease,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Amlodipine 5mg once daily
+• Levothyroxine 50mcg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 127/74 mmHg
+- Heart Rate: 65 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-20
+MRN_000023,50-59,Type 2 Diabetes Mellitus,Atrial Fibrillation,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 111/82 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-04
+MRN_000024,70-79,Type 2 Diabetes Mellitus,Osteoarthritis,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 145/84 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-24
+MRN_000025,60-69,Chronic Obstructive Pulmonary Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Levothyroxine 50mcg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 132/77 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-16
+MRN_000026,40-49,Type 2 Diabetes Mellitus,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 142/87 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-07
+MRN_000027,40-49,Type 2 Diabetes Mellitus,Osteoarthritis,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 129/90 mmHg
+- Heart Rate: 68 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-17
+MRN_000028,50-59,Coronary Artery Disease,Chronic Kidney Disease,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 131/88 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-11
+MRN_000029,70-79,Coronary Artery Disease,"Atrial Fibrillation, Osteoarthritis",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Atrial Fibrillation, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Amlodipine 5mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 143/71 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-23
+MRN_000030,60-69,Osteoarthritis,"Hyperlipidemia, Atrial Fibrillation",4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Hyperlipidemia, Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Aspirin 81mg once daily
+• Amlodipine 5mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 119/86 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-30
+MRN_000031,50-59,Asthma,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 123/73 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-28
+MRN_000032,60-69,Congestive Heart Failure,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 111/84 mmHg
+- Heart Rate: 66 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-22
+MRN_000033,60-69,Type 2 Diabetes Mellitus,"Coronary Artery Disease, Atrial Fibrillation",2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Coronary Artery Disease, Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 126/79 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-03
+MRN_000034,80-89,Chronic Kidney Disease,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 117/77 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-22
+MRN_000035,50-59,Type 2 Diabetes Mellitus,"Atrial Fibrillation, Essential Hypertension",3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Atrial Fibrillation, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 125/79 mmHg
+- Heart Rate: 66 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-22
+MRN_000036,70-79,Osteoarthritis,Congestive Heart Failure,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+• Amlodipine 5mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 126/71 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-09
+MRN_000037,70-79,Type 2 Diabetes Mellitus,Chronic Kidney Disease,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 139/83 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-28
+MRN_000038,70-79,Congestive Heart Failure,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 141/78 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-21
+MRN_000039,70-79,Congestive Heart Failure,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 116/88 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-11
+MRN_000040,60-69,Type 2 Diabetes Mellitus,Congestive Heart Failure,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Aspirin 81mg once daily
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 144/89 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-02
+MRN_000041,70-79,Asthma,"Coronary Artery Disease, Osteoarthritis",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Coronary Artery Disease, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 112/89 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-02
+MRN_000042,70-79,Osteoarthritis,"Coronary Artery Disease, Asthma",4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Coronary Artery Disease, Asthma
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+• Albuterol inhaler as needed
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 131/72 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-04
+MRN_000043,70-79,Chronic Kidney Disease,"Type 2 Diabetes Mellitus, Coronary Artery Disease",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Type 2 Diabetes Mellitus, Coronary Artery Disease
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Atorvastatin 20mg at bedtime
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 137/76 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-30
+MRN_000044,50-59,Coronary Artery Disease,"Chronic Kidney Disease, Osteoarthritis",2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 142/87 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-18
+MRN_000045,60-69,Osteoarthritis,Congestive Heart Failure,2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 141/83 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-03
+MRN_000046,60-69,Type 2 Diabetes Mellitus,"Atrial Fibrillation, Osteoarthritis",3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Atrial Fibrillation, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 143/84 mmHg
+- Heart Rate: 68 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-25
+MRN_000047,70-79,Coronary Artery Disease,Chronic Kidney Disease,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 110/70 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-24
+MRN_000048,60-69,Essential Hypertension,"Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease",3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Type 2 Diabetes Mellitus, Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 130/76 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-20
+MRN_000049,70-79,Asthma,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 126/79 mmHg
+- Heart Rate: 68 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-16
+MRN_000050,60-69,Type 2 Diabetes Mellitus,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 130/88 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-03
+MRN_000051,50-59,Chronic Obstructive Pulmonary Disease,"Essential Hypertension, Chronic Kidney Disease",3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Essential Hypertension, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 132/80 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-29
+MRN_000052,40-49,Coronary Artery Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Furosemide 40mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 119/76 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-08
+MRN_000053,60-69,Asthma,"Essential Hypertension, Hyperlipidemia",3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Essential Hypertension, Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Amlodipine 5mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 114/82 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-22
+MRN_000054,50-59,Asthma,Chronic Kidney Disease,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 126/73 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-03
+MRN_000055,40-49,Type 2 Diabetes Mellitus,"Osteoarthritis, Congestive Heart Failure",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Osteoarthritis, Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 122/86 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-14
+MRN_000056,40-49,Osteoarthritis,"Type 2 Diabetes Mellitus, Atrial Fibrillation",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Type 2 Diabetes Mellitus, Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 135/79 mmHg
+- Heart Rate: 65 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-20
+MRN_000057,40-49,Asthma,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-25
+MRN_000058,40-49,Osteoarthritis,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 120/77 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-27
+MRN_000059,70-79,Chronic Kidney Disease,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 112/78 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-13
+MRN_000060,50-59,Essential Hypertension,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 142/81 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-18
+MRN_000061,60-69,Chronic Kidney Disease,Atrial Fibrillation,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Metformin 1000mg twice daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 127/78 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-13
+MRN_000062,60-69,Hyperlipidemia,"Coronary Artery Disease, Chronic Kidney Disease",3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Coronary Artery Disease, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 119/73 mmHg
+- Heart Rate: 65 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-26
+MRN_000063,70-79,Type 2 Diabetes Mellitus,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 112/88 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-25
+MRN_000064,60-69,Hyperlipidemia,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Aspirin 81mg once daily
+• Albuterol inhaler as needed
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 121/73 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-10
+MRN_000065,40-49,Asthma,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 122/75 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-03
+MRN_000066,80-89,Osteoarthritis,"Congestive Heart Failure, Hyperlipidemia",3,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Congestive Heart Failure, Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 130/74 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-19
+MRN_000067,70-79,Osteoarthritis,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 131/89 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-01
+MRN_000068,80-89,Essential Hypertension,"Osteoarthritis, Congestive Heart Failure",3,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Osteoarthritis, Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 141/88 mmHg
+- Heart Rate: 67 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-31
+MRN_000069,70-79,Type 2 Diabetes Mellitus,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Albuterol inhaler as needed
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 132/70 mmHg
+- Heart Rate: 65 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-06
+MRN_000070,50-59,Type 2 Diabetes Mellitus,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 127/79 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-09
+MRN_000071,70-79,Hyperlipidemia,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 117/79 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-03
+MRN_000072,40-49,Atrial Fibrillation,Chronic Kidney Disease,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 115/83 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-05
+MRN_000073,70-79,Congestive Heart Failure,"Coronary Artery Disease, Chronic Kidney Disease",2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Coronary Artery Disease, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 122/88 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-04
+MRN_000074,40-49,Atrial Fibrillation,Osteoarthritis,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 138/81 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-08
+MRN_000075,70-79,Osteoarthritis,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Levothyroxine 50mcg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 144/83 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-13
+MRN_000076,50-59,Coronary Artery Disease,Essential Hypertension,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 133/83 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-24
+MRN_000077,70-79,Atrial Fibrillation,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Albuterol inhaler as needed
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 127/83 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-19
+MRN_000078,80-89,Coronary Artery Disease,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-07
+MRN_000079,80-89,Chronic Obstructive Pulmonary Disease,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 112/71 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-21
+MRN_000080,60-69,Type 2 Diabetes Mellitus,"Asthma, Osteoarthritis",2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Asthma, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 114/83 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-13
+MRN_000081,40-49,Atrial Fibrillation,Chronic Obstructive Pulmonary Disease,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 134/75 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-21
+MRN_000082,40-49,Congestive Heart Failure,"Chronic Kidney Disease, Atrial Fibrillation",3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Chronic Kidney Disease, Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 115/75 mmHg
+- Heart Rate: 65 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-22
+MRN_000083,60-69,Atrial Fibrillation,"Asthma, Essential Hypertension",4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Asthma, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Lisinopril 10mg once daily
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 130/73 mmHg
+- Heart Rate: 82 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-31
+MRN_000084,50-59,Atrial Fibrillation,Chronic Obstructive Pulmonary Disease,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Levothyroxine 50mcg once daily
+• Amlodipine 5mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 133/87 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-15
+MRN_000085,50-59,Congestive Heart Failure,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 122/84 mmHg
+- Heart Rate: 66 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-13
+MRN_000086,60-69,Osteoarthritis,Chronic Obstructive Pulmonary Disease,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 111/79 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-24
+MRN_000087,50-59,Essential Hypertension,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 127/80 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-22
+MRN_000088,70-79,Hyperlipidemia,"Congestive Heart Failure, Osteoarthritis",2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Congestive Heart Failure, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 134/75 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-24
+MRN_000089,50-59,Chronic Obstructive Pulmonary Disease,"Hyperlipidemia, Essential Hypertension",2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Hyperlipidemia, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 123/77 mmHg
+- Heart Rate: 67 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-23
+MRN_000090,60-69,Essential Hypertension,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 143/74 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-22
+MRN_000091,70-79,Hyperlipidemia,"Congestive Heart Failure, Coronary Artery Disease",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Congestive Heart Failure, Coronary Artery Disease
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Albuterol inhaler as needed
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 127/90 mmHg
+- Heart Rate: 65 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-17
+MRN_000092,40-49,Chronic Kidney Disease,Hyperlipidemia,4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 135/72 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-29
+MRN_000093,50-59,Type 2 Diabetes Mellitus,"Coronary Artery Disease, Osteoarthritis",2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Coronary Artery Disease, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 131/83 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-09
+MRN_000094,50-59,Osteoarthritis,Atrial Fibrillation,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Amlodipine 5mg once daily
+• Levothyroxine 50mcg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 137/75 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-01
+MRN_000095,80-89,Type 2 Diabetes Mellitus,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 138/87 mmHg
+- Heart Rate: 67 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-20
+MRN_000096,80-89,Hyperlipidemia,"Congestive Heart Failure, Type 2 Diabetes Mellitus",3,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Congestive Heart Failure, Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 139/70 mmHg
+- Heart Rate: 66 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-26
+MRN_000097,40-49,Chronic Obstructive Pulmonary Disease,"Essential Hypertension, Type 2 Diabetes Mellitus",3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Essential Hypertension, Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 118/87 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-13
+MRN_000098,70-79,Essential Hypertension,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Metformin 1000mg twice daily
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 111/84 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-12
+MRN_000099,70-79,Chronic Obstructive Pulmonary Disease,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 136/71 mmHg
+- Heart Rate: 82 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-13
+MRN_000100,50-59,Asthma,"Coronary Artery Disease, Essential Hypertension",2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Coronary Artery Disease, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 111/87 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-30
+MRN_000101,60-69,Hyperlipidemia,Chronic Kidney Disease,2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 114/79 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-16
+MRN_000102,40-49,Hyperlipidemia,"Essential Hypertension, Chronic Kidney Disease",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Essential Hypertension, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 138/75 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-23
+MRN_000103,80-89,Essential Hypertension,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Amlodipine 5mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 133/79 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-18
+MRN_000104,80-89,Chronic Kidney Disease,"Asthma, Hyperlipidemia",4,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Asthma, Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 128/77 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-16
+MRN_000105,70-79,Chronic Obstructive Pulmonary Disease,Osteoarthritis,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 125/81 mmHg
+- Heart Rate: 68 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-02
+MRN_000106,40-49,Coronary Artery Disease,"Congestive Heart Failure, Essential Hypertension",3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Congestive Heart Failure, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Furosemide 40mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 130/87 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-16
+MRN_000107,60-69,Coronary Artery Disease,Chronic Obstructive Pulmonary Disease,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-05
+MRN_000108,40-49,Congestive Heart Failure,Essential Hypertension,4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Amlodipine 5mg once daily
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 138/74 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-26
+MRN_000109,70-79,Asthma,"Congestive Heart Failure, Coronary Artery Disease",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Congestive Heart Failure, Coronary Artery Disease
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 133/87 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-16
+MRN_000110,40-49,Chronic Kidney Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 124/86 mmHg
+- Heart Rate: 67 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-17
+MRN_000111,60-69,Chronic Kidney Disease,Asthma,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Asthma
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 136/89 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-05
+MRN_000112,70-79,Congestive Heart Failure,"Type 2 Diabetes Mellitus, Chronic Kidney Disease",2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Type 2 Diabetes Mellitus, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-16
+MRN_000113,40-49,Osteoarthritis,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 117/82 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-26
+MRN_000114,50-59,Type 2 Diabetes Mellitus,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+• Aspirin 81mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 138/82 mmHg
+- Heart Rate: 82 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-09
+MRN_000115,40-49,Hyperlipidemia,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Aspirin 81mg once daily
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 142/76 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-25
+MRN_000116,50-59,Type 2 Diabetes Mellitus,Asthma,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Asthma
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 123/86 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-20
+MRN_000117,60-69,Chronic Kidney Disease,Essential Hypertension,2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 119/73 mmHg
+- Heart Rate: 82 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-23
+MRN_000118,80-89,Asthma,"Type 2 Diabetes Mellitus, Osteoarthritis",3,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Type 2 Diabetes Mellitus, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 112/76 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-07
+MRN_000119,40-49,Essential Hypertension,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Furosemide 40mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 124/88 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-02
+MRN_000120,40-49,Congestive Heart Failure,"Coronary Artery Disease, Type 2 Diabetes Mellitus",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Coronary Artery Disease, Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Metformin 1000mg twice daily
+• Aspirin 81mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 114/81 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-30
+MRN_000121,50-59,Atrial Fibrillation,"Osteoarthritis, Asthma",3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Osteoarthritis, Asthma
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 125/85 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-23
+MRN_000122,60-69,Chronic Kidney Disease,Osteoarthritis,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+• Lisinopril 10mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 122/77 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-11
+MRN_000123,60-69,Chronic Obstructive Pulmonary Disease,"Type 2 Diabetes Mellitus, Chronic Kidney Disease",2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Type 2 Diabetes Mellitus, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 141/89 mmHg
+- Heart Rate: 66 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-06
+MRN_000124,60-69,Chronic Kidney Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 137/90 mmHg
+- Heart Rate: 67 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-24
+MRN_000125,60-69,Coronary Artery Disease,Chronic Kidney Disease,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 123/79 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-22
+MRN_000126,70-79,Type 2 Diabetes Mellitus,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 118/82 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-17
+MRN_000127,60-69,Osteoarthritis,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 119/90 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-11
+MRN_000128,70-79,Hyperlipidemia,"Osteoarthritis, Asthma",2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Osteoarthritis, Asthma
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 111/77 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-28
+MRN_000129,70-79,Type 2 Diabetes Mellitus,"Chronic Kidney Disease, Coronary Artery Disease",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Chronic Kidney Disease, Coronary Artery Disease
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 129/76 mmHg
+- Heart Rate: 67 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-31
+MRN_000130,50-59,Type 2 Diabetes Mellitus,Atrial Fibrillation,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Furosemide 40mg once daily
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 139/82 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-12
+MRN_000131,50-59,Hyperlipidemia,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 121/86 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-13
+MRN_000132,80-89,Chronic Kidney Disease,Asthma,4,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Asthma
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Amlodipine 5mg once daily
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 143/89 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-26
+MRN_000133,40-49,Hyperlipidemia,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 110/81 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-02
+MRN_000134,70-79,Hyperlipidemia,"Osteoarthritis, Congestive Heart Failure",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: Osteoarthritis, Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 121/90 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-06
+MRN_000135,70-79,Essential Hypertension,Type 2 Diabetes Mellitus,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 125/86 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-27
+MRN_000136,40-49,Chronic Obstructive Pulmonary Disease,"Coronary Artery Disease, Type 2 Diabetes Mellitus",2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Coronary Artery Disease, Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 143/81 mmHg
+- Heart Rate: 68 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-14
+MRN_000137,80-89,Type 2 Diabetes Mellitus,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 115/82 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-02
+MRN_000138,70-79,Osteoarthritis,"Coronary Artery Disease, Atrial Fibrillation",3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Coronary Artery Disease, Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 125/82 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-31
+MRN_000139,50-59,Congestive Heart Failure,"Atrial Fibrillation, Hyperlipidemia",4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Atrial Fibrillation, Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Levothyroxine 50mcg once daily
+• Furosemide 40mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 129/85 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-02-19
+MRN_000140,50-59,Coronary Artery Disease,"Congestive Heart Failure, Atrial Fibrillation",3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Congestive Heart Failure, Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 112/80 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-30
+MRN_000141,80-89,Chronic Kidney Disease,Osteoarthritis,4,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 145/84 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-13
+MRN_000142,50-59,Osteoarthritis,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 138/74 mmHg
+- Heart Rate: 82 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-14
+MRN_000143,40-49,Congestive Heart Failure,"Hyperlipidemia, Chronic Obstructive Pulmonary Disease",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Hyperlipidemia, Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 114/84 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-24
+MRN_000144,40-49,Type 2 Diabetes Mellitus,"Congestive Heart Failure, Atrial Fibrillation",2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Congestive Heart Failure, Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 132/90 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-30
+MRN_000145,40-49,Coronary Artery Disease,Atrial Fibrillation,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 113/72 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-27
+MRN_000146,40-49,Asthma,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 111/83 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-04
+MRN_000147,50-59,Chronic Obstructive Pulmonary Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 130/77 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-31
+MRN_000148,40-49,Essential Hypertension,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 111/89 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-08
+MRN_000149,40-49,Coronary Artery Disease,"Essential Hypertension, Chronic Kidney Disease",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Essential Hypertension, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+• Albuterol inhaler as needed
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 141/87 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-03
+MRN_000150,50-59,Atrial Fibrillation,Congestive Heart Failure,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 114/90 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-30
+MRN_000151,70-79,Type 2 Diabetes Mellitus,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 110/85 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-19
+MRN_000152,40-49,Atrial Fibrillation,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 116/77 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-02
+MRN_000153,70-79,Type 2 Diabetes Mellitus,"Hyperlipidemia, Chronic Kidney Disease",4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Hyperlipidemia, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 139/85 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-14
+MRN_000154,70-79,Hyperlipidemia,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 66 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-15
+MRN_000155,60-69,Chronic Obstructive Pulmonary Disease,"Hyperlipidemia, Coronary Artery Disease",4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Hyperlipidemia, Coronary Artery Disease
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+• Furosemide 40mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 141/83 mmHg
+- Heart Rate: 77 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-10
+MRN_000156,50-59,Essential Hypertension,Hyperlipidemia,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 128/88 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-11
+MRN_000157,70-79,Coronary Artery Disease,Chronic Kidney Disease,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 145/79 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-26
+MRN_000158,70-79,Chronic Kidney Disease,Congestive Heart Failure,2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 145/88 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-12
+MRN_000159,70-79,Congestive Heart Failure,"Osteoarthritis, Essential Hypertension",4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Osteoarthritis, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 137/79 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-17
+MRN_000160,50-59,Osteoarthritis,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 141/73 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-28
+MRN_000161,60-69,Asthma,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Furosemide 40mg once daily
+• Albuterol inhaler as needed
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 138/76 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-07
+MRN_000162,60-69,Essential Hypertension,Chronic Kidney Disease,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Amlodipine 5mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 124/83 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-07
+MRN_000163,50-59,Chronic Kidney Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 133/81 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-07
+MRN_000164,40-49,Type 2 Diabetes Mellitus,Chronic Obstructive Pulmonary Disease,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 137/80 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-01
+MRN_000165,50-59,Chronic Obstructive Pulmonary Disease,Congestive Heart Failure,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Amlodipine 5mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 134/79 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-07
+MRN_000166,50-59,Atrial Fibrillation,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 135/76 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-03
+MRN_000167,40-49,Chronic Obstructive Pulmonary Disease,"Atrial Fibrillation, Osteoarthritis",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Atrial Fibrillation, Osteoarthritis
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Atorvastatin 20mg at bedtime
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 129/76 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-20
+MRN_000168,60-69,Atrial Fibrillation,Hyperlipidemia,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Lisinopril 10mg once daily
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 129/81 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-25
+MRN_000169,40-49,Coronary Artery Disease,Hyperlipidemia,2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 128/83 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-20
+MRN_000170,50-59,Coronary Artery Disease,"Congestive Heart Failure, Essential Hypertension",3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Congestive Heart Failure, Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 142/77 mmHg
+- Heart Rate: 83 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-24
+MRN_000171,40-49,Type 2 Diabetes Mellitus,"Osteoarthritis, Asthma",2,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Osteoarthritis, Asthma
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 131/87 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-27
+MRN_000172,80-89,Coronary Artery Disease,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 80-89 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Aspirin 81mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 130/74 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.0°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-18
+MRN_000173,50-59,Congestive Heart Failure,"Essential Hypertension, Hyperlipidemia",3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Essential Hypertension, Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 118/90 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-06-17
+MRN_000174,50-59,Essential Hypertension,Atrial Fibrillation,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Essential Hypertension
+COMORBIDITIES: Atrial Fibrillation
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 114/79 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-12-01
+MRN_000175,50-59,Chronic Kidney Disease,"Osteoarthritis, Chronic Obstructive Pulmonary Disease",2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Osteoarthritis, Chronic Obstructive Pulmonary Disease
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 113/90 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-09
+MRN_000176,50-59,Congestive Heart Failure,Essential Hypertension,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: Essential Hypertension
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 119/77 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-15
+MRN_000177,70-79,Hyperlipidemia,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Hyperlipidemia
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 137/85 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-09-16
+MRN_000178,40-49,Asthma,Hyperlipidemia,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 114/75 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.3°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-10
+MRN_000179,50-59,Osteoarthritis,Coronary Artery Disease,4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Coronary Artery Disease
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Furosemide 40mg once daily
+• Metformin 1000mg twice daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 113/79 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-19
+MRN_000180,60-69,Congestive Heart Failure,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 134/80 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-26
+MRN_000181,40-49,Chronic Obstructive Pulmonary Disease,"Type 2 Diabetes Mellitus, Asthma",4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: Type 2 Diabetes Mellitus, Asthma
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 129/80 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.9°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-11
+MRN_000182,40-49,Type 2 Diabetes Mellitus,Hyperlipidemia,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Albuterol inhaler as needed
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 113/75 mmHg
+- Heart Rate: 74 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-12
+MRN_000183,50-59,Coronary Artery Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Lisinopril 10mg once daily
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 130/70 mmHg
+- Heart Rate: 75 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-24
+MRN_000184,60-69,Chronic Kidney Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 134/75 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-27
+MRN_000185,60-69,Chronic Kidney Disease,None documented,4,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Albuterol inhaler as needed
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 134/83 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-21
+MRN_000186,40-49,Chronic Kidney Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and elevated fasting blood glucose levels.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+• Albuterol inhaler as needed
+
+VITAL SIGNS:
+- Blood Pressure: 141/85 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-11
+MRN_000187,70-79,Atrial Fibrillation,"Osteoarthritis, Congestive Heart Failure",2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Atrial Fibrillation
+COMORBIDITIES: Osteoarthritis, Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 142/74 mmHg
+- Heart Rate: 81 bpm
+- Temperature: 98.7°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-05
+MRN_000188,40-49,Asthma,Congestive Heart Failure,4,"Patient presents for routine follow-up visit.
+
+AGE: 40-49 years
+PRIMARY DIAGNOSIS: Asthma
+COMORBIDITIES: Congestive Heart Failure
+
+CHIEF COMPLAINT: Patient reports intermittent chest discomfort and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Levothyroxine 50mcg once daily
+• Aspirin 81mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 122/81 mmHg
+- Heart Rate: 79 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-11-24
+MRN_000189,50-59,Chronic Kidney Disease,Type 2 Diabetes Mellitus,3,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Atorvastatin 20mg at bedtime
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 116/70 mmHg
+- Heart Rate: 69 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-04
+MRN_000190,50-59,Chronic Kidney Disease,None documented,2,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 140/74 mmHg
+- Heart Rate: 71 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-28
+MRN_000191,70-79,Chronic Obstructive Pulmonary Disease,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Obstructive Pulmonary Disease
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Aspirin 81mg once daily
+• Levothyroxine 50mcg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 124/76 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.1°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-21
+MRN_000192,70-79,Type 2 Diabetes Mellitus,Chronic Kidney Disease,4,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and intermittent chest discomfort.
+
+CURRENT MEDICATIONS:
+• Albuterol inhaler as needed
+• Levothyroxine 50mcg once daily
+• Atorvastatin 20mg at bedtime
+• Metformin 1000mg twice daily
+
+VITAL SIGNS:
+- Blood Pressure: 134/83 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.2°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-07-26
+MRN_000193,70-79,Osteoarthritis,Asthma,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Asthma
+
+CHIEF COMPLAINT: Patient reports shortness of breath on exertion and persistent fatigue.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 122/72 mmHg
+- Heart Rate: 80 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-01-09
+MRN_000194,60-69,Type 2 Diabetes Mellitus,Coronary Artery Disease,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: Coronary Artery Disease
+
+CHIEF COMPLAINT: Patient reports persistent fatigue and bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Levothyroxine 50mcg once daily
+• Lisinopril 10mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 111/81 mmHg
+- Heart Rate: 70 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-05-27
+MRN_000195,70-79,Chronic Kidney Disease,"Osteoarthritis, Type 2 Diabetes Mellitus",2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Chronic Kidney Disease
+COMORBIDITIES: Osteoarthritis, Type 2 Diabetes Mellitus
+
+CHIEF COMPLAINT: Patient reports elevated fasting blood glucose levels and chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 119/85 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.4°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-10-25
+MRN_000196,50-59,Coronary Artery Disease,"Osteoarthritis, Hyperlipidemia",4,"Patient presents for routine follow-up visit.
+
+AGE: 50-59 years
+PRIMARY DIAGNOSIS: Coronary Artery Disease
+COMORBIDITIES: Osteoarthritis, Hyperlipidemia
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Lisinopril 10mg once daily
+• Amlodipine 5mg once daily
+• Aspirin 81mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 131/74 mmHg
+- Heart Rate: 76 bpm
+- Temperature: 98.5°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2025-08-13
+MRN_000197,70-79,Type 2 Diabetes Mellitus,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Type 2 Diabetes Mellitus
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain and shortness of breath on exertion.
+
+CURRENT MEDICATIONS:
+• Metformin 1000mg twice daily
+• Furosemide 40mg once daily
+• Atorvastatin 20mg at bedtime
+
+VITAL SIGNS:
+- Blood Pressure: 114/76 mmHg
+- Heart Rate: 73 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 1 months
+- Patient educated on lifestyle modifications and warning signs",2024-12-27
+MRN_000198,70-79,Osteoarthritis,"Coronary Artery Disease, Chronic Kidney Disease",2,"Patient presents for routine follow-up visit.
+
+AGE: 70-79 years
+PRIMARY DIAGNOSIS: Osteoarthritis
+COMORBIDITIES: Coronary Artery Disease, Chronic Kidney Disease
+
+CHIEF COMPLAINT: Patient reports chronic lower back pain.
+
+CURRENT MEDICATIONS:
+• Furosemide 40mg once daily
+• Levothyroxine 50mcg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 135/88 mmHg
+- Heart Rate: 84 bpm
+- Temperature: 98.6°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 3 months
+- Patient educated on lifestyle modifications and warning signs",2025-04-29
+MRN_000199,60-69,Congestive Heart Failure,None documented,3,"Patient presents for routine follow-up visit.
+
+AGE: 60-69 years
+PRIMARY DIAGNOSIS: Congestive Heart Failure
+COMORBIDITIES: None documented
+
+CHIEF COMPLAINT: Patient reports bilateral lower extremity edema.
+
+CURRENT MEDICATIONS:
+• Amlodipine 5mg once daily
+• Furosemide 40mg once daily
+• Lisinopril 10mg once daily
+
+VITAL SIGNS:
+- Blood Pressure: 120/73 mmHg
+- Heart Rate: 85 bpm
+- Temperature: 98.8°F
+
+ASSESSMENT: Stable condition with ongoing chronic disease management. Patient is adherent to medication regimen.
+
+PLAN:
+- Continue current medications
+- Laboratory work ordered (HbA1c, lipid panel, comprehensive metabolic panel)
+- Follow-up in 2 months
+- Patient educated on lifestyle modifications and warning signs",2025-03-02
