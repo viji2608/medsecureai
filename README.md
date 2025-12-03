@@ -74,25 +74,25 @@ Hospitals store vast patient data in Electronic Health Records (EHRs), but **pri
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│              Web Interface (React/HTML)                  │
+│              Web Interface (React/HTML)                 │
 │  - Query Input  - Results Display  - Metrics Dashboard  │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│              FastAPI Backend                             │
+│              FastAPI Backend                            │
 │  - Query Processing  - Audit Logging  - Authentication  │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│         Embedding Generator (Local)                      │
+│         Embedding Generator (Local)                     │
 │     sentence-transformers/all-MiniLM-L6-v2              │
 └─────────────────────┬───────────────────────────────────┘
                       │
                       ▼
 ┌─────────────────────────────────────────────────────────┐
-│              CyborgDB (Encrypted)                        │
+│              CyborgDB (Encrypted)                       │
 │     256-bit AES  │  IVFFlat Index  │  Cosine Distance   │
 └─────────────────────────────────────────────────────────┘
 ```
