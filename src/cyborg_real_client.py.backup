@@ -188,14 +188,14 @@ class CyborgDBRealClient:
                             matches.append({
                                 'id': item.get('id', 'unknown'),
                                 'score': float(item.get('distance', 0)),
-                                'text': str(item.get('metadata', {}).get('content', '')),
+                                'text': str(item.get('metadata', {}).get('content', ''))[:200],
                                 'metadata': {'source': 'cyborgdb_encrypted'}
                             })
                         elif hasattr(item, 'id'):  # Object with attributes
                             matches.append({
                                 'id': getattr(item, 'id', 'unknown'),
                                 'score': float(getattr(item, 'distance', 0)),
-                                'text': str(getattr(item, 'metadata', {}).get('content', '')),
+                                'text': str(getattr(item, 'metadata', {}).get('content', ''))[:200],
                                 'metadata': {'source': 'cyborgdb_encrypted'}
                             })
                         else:

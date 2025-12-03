@@ -1,77 +1,35 @@
 #!/usr/bin/env python3
 """
-Clean data preparation - Professional medical records
+Clean data prep - NO PHI removal for synthetic data
 """
-
-import pandas as pd
 import hashlib
 from typing import List, Dict
 
 class MedicalDataPrep:
-    """Prepare clean, professional medical records"""
-    
     def __init__(self):
-        self.stats = {
-            'total_processed': 0,
-            'records_anonymized': 0
-        }
+        self.stats = {'total_processed': 0}
     
     def anonymize_id(self, record_id: str) -> str:
         """Create anonymized hash ID"""
-        return hashlib.sha256(f"{record_id}medsecure".encode()).hexdigest()[:16]
+        return hashlib.sha256(f"{record_id}".encode()).hexdigest()[:16]
     
     def prepare_record(self, record: Dict) -> Dict:
-        """Prepare a single medical record with clean text"""
-        
-        # Get the original summary
-        summary = record.get('clinical_summary', '')
-        
-        # Create clean, professional clinical note
-        age_range = record.get('age_range', 'Adult')
-        condition = record.get('primary_condition', 'Unknown condition')
-        comorbidities = record.get('comorbidities', 'None')
-        
-        # Build professional clinical text
-        clinical_text = f"""Patient Age: {age_range} years
-
-Primary Diagnosis: {condition}
-Comorbidities: {comorbidities}
-
-Clinical Summary:
-{summary}
-
-Assessment: Patient presents with stable condition requiring ongoing management and monitoring."""
-        
-        prepared = {
-            'anon_id': self.anonymize_id(str(record.get('record_id', 'unknown'))),
-            'text': clinical_text.strip(),
+        """Prepare record - NO REDACTION"""
+        return {
+            'id': self.anonymize_id(str(record.get('record_id', 'unknown'))),
+            'text': record.get('clinical_summary', ''),  # Full text, no removal
             'metadata': {
-                'age_range': age_range,
-                'condition': condition,
-                'record_type': 'clinical_note',
-                'data_source': 'synthetic'
+                'age_range': record.get('age_range', 'Unknown'),
+                'condition': record.get('primary_condition', 'Unknown')
             }
         }
-        
-        self.stats['records_anonymized'] += 1
-        return prepared
     
-    def prepare_records(self, df: pd.DataFrame) -> List[Dict]:
-        """Prepare entire dataset"""
-        print(f"Processing {len(df)} medical records...")
-        
+    def prepare_records(self, df) -> List[Dict]:
+        """Prepare all records"""
         records = []
         for idx, row in df.iterrows():
-            try:
-                prepared = self.prepare_record(row.to_dict())
-                records.append(prepared)
-            except Exception as e:
-                print(f"⚠️  Warning: Failed to process record {idx}: {e}")
-                continue
-        
+            records.append(self.prepare_record(row.to_dict()))
         self.stats['total_processed'] = len(records)
-        print(f"✅ Processed {len(records)} clean records")
-        
         return records
     
     def get_stats(self) -> Dict:
